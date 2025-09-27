@@ -1,0 +1,39 @@
+You are an expert code analyst. Your task is to determine if the two following Java code snippets are functional clones. Functional clones perform the same task, even if variable names, comments, or minor logic structures are different.
+
+Respond with only the integer `1` if they are clones, and only the integer `0` if they are not. Do not provide any explanation, preamble, or additional text.
+
+--- Code Snippet 1 ---
+public synchronized String encrypt(String plaintext) {
+    MessageDigest md = null;
+    try {
+        md = MessageDigest.getInstance("MD5");
+    } catch (NoSuchAlgorithmException e) {
+        e.printStackTrace();
+    }
+
+    try {
+        md.update(plaintext.getBytes("UTF-8"));
+    } catch (UnsupportedEncodingException e) {
+        e.printStackTrace();
+    }
+
+    byte[] raw = md.digest();
+    String hash = (new BASE64Encoder()).encode(raw);
+    return hash;
+}
+
+--- Code Snippet 2 ---
+static String encrypt(String plaintext) {
+    MessageDigest d = null;
+    try {
+        d = MessageDigest.getInstance("SHA-1");
+        d.update(plaintext.getBytes("UTF-8"));
+    } catch (Exception e) {
+        e.printStackTrace();
+    }
+    return new String(Base64.encodeBase64(d.digest()));
+}
+
+
+--- Analysis ---
+Are these two code snippets functional clones? (1 for Yes, 0 for No):

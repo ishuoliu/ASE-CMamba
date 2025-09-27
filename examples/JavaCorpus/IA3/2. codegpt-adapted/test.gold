@@ -1,0 +1,3000 @@
+owner , final Point location )
+> models ;
+= <NUM_LIT:0> ;
+CallHierarchyMessages . SearchScopeActionGroup_workspace_tooltip ) ;
+Ex1 > in1 ;
+public class Regex implements ModelMatcher
+int i = <NUM_LIT:0> ;
+) ;
+) ;
+public static String TestRunnerViewPart_toggle_automatic_label ;
+public void setLhs ( SVDBExpr expr )
+Object masterJoin = invoke ( factory , "<STR_LIT>" , a , b ) ;
+MENU_ID ) ;
+String RUBY_REGULAR_EXPRESSION = "<STR_LIT>" ;
+net . bioclipse . opentox . Activator . getDefault ( ) . getJavaScriptOpentoxManager ( ) ;
+) )
+source . textdata1 ) ;
+= new IntervalTo ( DateHelper . parseDateTime ( "<STR_LIT>" ) , DateHelper . parseDateTime ( "<STR_LIT>" ) ) ;
+. checkMustNotBeNull ( type , "<STR_LIT:type>" ) ;
+, dummy ( ) , driver ( file . getName ( ) ) ) ;
+String content = "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" ;
+page )
+. rdt . refactoring . core . pushdown . PushDownRefactoring ;
+final String BUNDLE_NAME = "<STR_LIT>" ;
+assert stageBlock != null ;
+( true ) ;
+, DriverScript driverScript )
+. eclipse . ltk . ui . refactoring . TextEditChangeNode ;
+) ;
+( Composite parent )
+public Change perform ( IProgressMonitor pm ) throws CoreException
+Ex1 > out ;
+) . getData ( ) . getPath ( ) . equals ( "<STR_LIT>" ) )
+"<STR_LIT>" , "<STR_LIT>" }
+. isComplete ( ) )
+. logging . Log ;
+super ( SVDBItemType . ConfigInstClauseStmt ) ;
+import com . pogofish . jadt . errors . SemanticError ;
+asakusafw . vocabulary . model . Key ;
+assertFalse ;
+if ( ! stateHandler . waitToWhen ( new IsExecutable ( ) , new Runnable ( )
+return MessageFormat . format ( "<STR_LIT>" , getInputPorts ( ) ) ;
+. emit ( model . getCountOption ( ) ) ;
+if ( root == null )
+RubyClassVar ( RubyElement parent , String name )
+factory . newSimpleName ( "<STR_LIT:value>" ) ;
+false ;
+public AllReleaseTests ( )
+getLaunchConfigurations ( ) . length ) ;
+< Integer , Integer > weights ;
+isDirectory ( ) )
+"<STR_LIT>" , "<STR_LIT>" }
+. Test ;
+) , new AttributeBuilder ( factory ) . Public ( ) . toAttributes ( ) , getClassName ( ) , Collections . < FormalParameterDeclaration > emptyList ( ) , statements ) ;
+new Double ( parser . nextText ( ) ) ;
+. format ( "<STR_LIT>" , resource . getClass ( ) . getName ( ) ) ) ;
+NextMenuItem ( CardLayoutPacket layout , String name )
+current = new Integer ( from ) ;
+getText ( ) ) ;
+private Object fRoot ;
+. getConnected ( ) . size ( ) > downstream . getConnected ( ) . size ( ) )
+( ) ;
+attributeContext . setValue ( "<STR_LIT>" ) ;
+) throws FileNotFoundException
+checkedParts . add ( ( PartialClassNodeWrapper ) currentItem . getData ( ) ) ;
+new IllegalArgumentException ( "<STR_LIT>" ) ;
+. getIntProperty ( "<STR_LIT:start>" ) , testData . getIntProperty ( "<STR_LIT>" ) , "<STR_LIT>" ) ;
+, type . getClassLoader ( ) ) ;
+import com . asakusafw . vocabulary . flow . JobFlow ;
+if ( message == null )
+OccurrencesGroupKey extends RubyElementLine
+, IRIEncoder . encode ( "<STR_LIT:%>" ) ) ;
+getVMRunner ( mode ) ;
+persister = archiver . persisterFor ( null ) ;
+, new Output ( format , "<STR_LIT>" , "<STR_LIT>" ) ) ;
+class TC_RubyEntryPointTab extends ModifyingResourceTest
+int flags )
+final private String versionString ;
+) ;
+[ ] children = getSortedChildren ( o ) ;
+Util . notContainNull ( superInterfaceTypes , "<STR_LIT>" ) ;
+<NUM_LIT:31> ;
+prime = <NUM_LIT:31> ;
+. createSource ( proc ) ;
+. refactoring . tests . FileTestSuite ;
+import org . eclipse . jface . action . IMenuManager ;
+. getEmail ( ) ) . setEmail ( profile . getEmail ( ) ) . setName ( profile . getName ( ) ) . setFirstName ( profile . getFirstName ( ) ) . setLastName ( profile . getLastName ( ) ) . build ( ) ;
++ "<STR_LIT>" ;
+return groupId ;
+( )
+new HashSet < QTag > ( Arrays . asList ( tags ) ) ;
+. getToDate ( ) ) ;
+MockHoge . class , branch , "<STR_LIT>" ) ) ;
+= isReadAccess ;
+new RuntimeException ( "<STR_LIT>" + getClass ( ) ) ;
+, is ( NullityConditionKind . NORMAL ) ) ;
+< String > locals ;
+base_location )
+return new SourceInfo ( locations , desc . getInputFormat ( ) ) ;
+i < size ;
+IOException , XmlStreamReaderException
+getName ( ) , property ) ;
+public static String ParametersTableCellEditorListener_CannotHaveParametersWithEqualNames ;
+output , "<STR_LIT:UTF-8>" ) ) ;
+< String > cleanDirList = getPropStartWithString ( Constants . PROP_KEY_HDFS_FILE_CLEAN_DIR + "<STR_LIT:.>" ) ;
+. clear ( ) ;
+= target ;
+class ) , new DefaultConverter ( ) ) ) ;
+( ) ;
+composite . setLayoutData ( new GridData ( SWT . BEGINNING , SWT . BEGINNING , false , false ) ) ;
+this ) ;
+= iVisited ;
+) ;
+. rdt . internal . corext . util . CodeFormatterUtil ;
+. print ( "<STR_LIT:U+0020>" ) ;
+getResources ( )
+public class ExitCodeException extends IOException
+remember . getJobState ( ) . isIncomplete ( ) )
+|| topicName . length ( ) < <NUM_LIT:1> )
+private final ModelOutput < T > output ;
+new FilterIsolatedNodesAction ( controlerProvider ) ) ;
+) ;
+monitor ) throws CoreException , OperationCanceledException
+interface Colour extends Serializable
+new RenameFieldConfig ( new DocumentWithIncluding ( getDocumentProvider ( ) ) , selectionProvider . getCaretPosition ( ) ) ;
+getKeyOption ( ) ) ;
+CollectionModel model ) ;
+) ;
+) . enableDebug ( false ) ;
+actions . ExplorerAction ;
+for ( SVDBPluginLibDescriptor d : SVCorePlugin . getDefault ( ) . getPluginLibList ( ) )
+event )
+filename ) ;
+if ( hasError ( ) )
+sf . sveditor . core . db . SVDBItemType ;
+) ;
+) . getDataType ( ) , is ( ( Object ) MockHoge . class ) ) ;
+import org . oddjob . util . URLClassLoaderTypeTest ;
+elements . length ] ;
+enclosingProjectsAndJars ( ) ;
+@ Override public Person getPerson ( String id )
+( i == <NUM_LIT:0> ) xr . nextToken ( ) ;
+public void setValue ( String value )
+public Range getRange ( )
+( ) . createIndenter ( ) ;
+proxy = new CallableProxyGenerator ( ) . generate ( callable , getClass ( ) . getClassLoader ( ) ) ;
+Static ( )
+== null )
+. getClassBodyNode ( ) , DefnNode . class ) )
+interface GemListener
+throw new IllegalArgumentException ( "<STR_LIT>" ) ;
+abstract class ScoutingElement extends JPanel
+getModelType ( ) ) ;
+list )
+, "<STR_LIT>" ) ;
+public void doSubmit ( StaplerRequest request , StaplerResponse response ) throws ServletException , IOException
+public String getSidColumn ( )
+, Aggregator . SUM , n ( "<STR_LIT>" ) ) , }
+return fParamDeclParser ;
+code , Object ... arguments )
+FlowElementPortDescription > getOutputPorts ( ) ;
+PlatformUI . getWorkbench ( ) . getWorkingSetManager ( ) . addPropertyChangeListener ( fWorkingSetListener ) ;
+fValueProvider . get_value ( id . getId ( ) ) ;
+, <NUM_LIT:100> ) ;
+. getParameterTypes ( ) . length == numberOfParams )
+elements ;
+TripleRelation ;
+boolean isAccessor ( )
+) ;
+( SVDBItemType . ModportSimplePortsDecl ) ;
+ClientHttpResponse intercept ( HttpRequest request , byte [ ] body , ClientHttpRequestExecution execution ) throws IOException
+PropertyDeclaration ;
+private final String srcInfo ;
+. debug . core . model . IValue ;
+) ;
+, int max ) ;
+return false ;
+String propertiesQuery = "<STR_LIT>" + "<STR_LIT>" + feature + "<STR_LIT>" + "<STR_LIT:}
+= fWorkingSet . getElements ( ) ;
+public void setState ( ParentState state , Date date )
+name , SVDBFile file , ISVDBIndexIterator iterator )
+public class MockStateful implements Stateful
+( fEditor == null ) return null ;
+String key = it . next ( ) ;
+SVDBFileChanged ( SVDBFile file , List < SVDBItem > adds , List < SVDBItem > removes , List < SVDBItem > changes ) ;
+private final RecordEmitter emitter ;
+getDatedata1Option ( ) ) ;
+public String getTypeName ( )
+invalid_output ( ) throws Exception
+StringBuffer ( ) ;
+( "<STR_LIT>" ) ;
+fOperationTarget ;
+VCallNode ) node ) . getName ( ) ;
+. movemethod . MoveMethodRefactoring ;
+StageEvent > events = new Stack < StageEvent > ( ) ;
+assertNotNull ( path ) ;
+eclipse . jface . text . TextPresentation ;
+for ( int i = <NUM_LIT:0> ;
+import org . rubypeople . rdt . internal . ui . search . SearchMessages ;
+. isEmpty ( ) ) return null ;
+LinkedModeModel environment , int flags )
+this . superSimpleName = CharOperation . subarray ( key , <NUM_LIT:0> , slash ) ;
+public SVDBExpr fExpr ;
+@ Override public < R , C , E extends Throwable > R accept ( VisualNodeVisitor < R , C , E > visitor , C context ) throws E
+doConfigure ( ServiceProfile < ? > profile , Map < String , String > desiredProperties , Map < String , String > desiredEnvironmentVariables ) throws InterruptedException , IOException
+. modify ( value0 ) ;
+( test . test ( JobState . READY ) ) ;
+Messages . bind ( Messages . classpath_unboundVariablePath , path . makeRelative ( ) . toString ( ) , javaProject . getElementName ( ) ) ;
+Test suite ( )
+( i > <NUM_LIT:0> )
+. validate ( ) ;
+oldInput , Object newInput )
+n = token . length ( ) ;
+public String getColour ( )
+. runtime . NullProgressMonitor ;
+Test public void simple ( )
+> getModelType ( )
+public static String format ( String message , Object [ ] objects )
+nodes = new ArrayList < Node > ( ) ;
+boolean getIncludePrivateTasksFunctions ( ) ;
+< T > definition , URI source , TestContext context ) throws IOException ;
+= name ;
+( fTmpBuffer . charAt ( fTmpBuffer . length ( ) - <NUM_LIT:1> ) == '<STR_LIT>' )
+exchange . exchange ( null ) ;
+com . asakusafw . windgate . core . resource . DriverFactory ;
+] ;
+import javax . swing . SwingUtilities ;
+arooaClass = accessor . getClassName ( bean ) ;
+final JavaClass objectClass ;
+. Util ;
+ESCAPE_LF ) ;
+junit . framework . Test ;
+junit . framework . TestSuite ;
+for ( char c : name . toCharArray ( ) )
+public class BasicSelectionTransferDragAdapter extends DragSourceAdapter implements TransferDragSourceListener
+ret = factory . createSVDBIndex ( project , base_location , cache , config ) ;
+emitter . emit ( model . getKeyOption ( ) ) ;
+( ) . size ( ) , is ( <NUM_LIT:1> ) ) ;
+Invoker ;
+docProvider , int offset )
+ex1 . setStringAsString ( "<STR_LIT>" ) ;
+eclipse . swt . widgets . Composite ;
+public @ interface Key
+import net . sf . sveditor . core . db . expr . SVDBExpr ;
+ContentAssistInvocationContext context )
+kw_p , keyword ) ;
+private static final ResourceBundle RESOURCE_BUNDLE = ResourceBundle . getBundle ( BUNDLE_NAME ) ;
+org . rubypeople . rdt . internal . ui . actions . AbstractToggleLinkingAction ;
+public void testCanAccept ( )
+jobThreads = new ArrayList < Future < ? > > ( ) ;
+new File [ <NUM_LIT:0> ] ) ;
+"<STR_LIT>" ) ) ) ;
+, description = AbstractImporterDescription . class ) In < MockHoge > in , @ Export ( name = "<STR_LIT>" , description = MockHogeExporterDescription . class ) Out < MockHoge > out )
+emitter . emit ( model . getKeyOption ( ) ) ;
+ITextSelection ;
+= convertToPreferenceString ( appList ) ;
+args . toArray ( new String [ args . size ( ) ] ) ) ;
+@ Override public void setSequenceTrackerCallback ( final BatchConsumer . SequenceTrackerCallback sequenceTrackerCallback )
+. eclipse . swt . SWT ;
+GridBagConstraints c = new GridBagConstraints ( ) ;
+title , String message )
+( getShell ( ) , fCurrJProject , null ) ;
+) . loadClass ( className ) ;
+. design . screem . StandardForm ;
+( String message )
+public class FamilyConstants
+. ast . RootNode ;
+. lang . model . element . TypeElement ;
+return Integer . toString ( fType ) ;
+class TriggerDesFaTest extends TestCase
+. screem . StandardForm ;
+. fill ( model . getBOption ( ) ) ;
+( pathBox ) ;
+fOffset = - <NUM_LIT:1> ;
+. eclipse . swt . widgets . Composite ;
+. length ) throw new IllegalArgumentException ( "<STR_LIT>" ) ;
+public void setParameters ( int index , ValueType parameter )
+) ;
+== null || methodProposal . getParameterNames ( ) . length == <NUM_LIT:0> ) return createProposal ( methodProposal ) ;
+) . getName ( ) , is ( "<STR_LIT>" ) ) ;
+getName ( ) ;
+eclipse . debug . core . model . ILineBreakpoint ;
+private ArrayList < ConstNode > moduleMethodNodes = new ArrayList < ConstNode > ( ) ;
+handler . execute ( ExecutionMonitor . NULL , context , script ) ;
+substring ( <NUM_LIT:1> ) ;
+offset , monitor , context ) ;
+config = new RenameLocalConfig ( testData , testData . getIntProperty ( "<STR_LIT>" ) ) ;
+. refactoring . core . extractmethod . ExtractMethodRefactoring ;
+lang . annotation . Target ;
+peekKeyword ( "<STR_LIT>" + type_name ) )
+= "<STR_LIT>" ;
+import org . eclipse . jface . text . rules . IPartitionTokenScanner ;
+&& config . isSudo ( ) )
+import org . rubypeople . rdt . internal . ui . RubyUIMessages ;
+) . setLocation ( value ) ;
+assertEquals ( ParentState . EXECUTING , test . lastStateEvent ( ) . getState ( ) ) ;
+return type . getAnnotation ( annotationType ) ;
+) ) ) ;
+getQualifiedName ( ) ;
+EqualsState . this . state . test ( state ) )
+"<STR_LIT>" , "<STR_LIT>" ) , ;
+. text . IInformationControlCreator ;
+( length - <NUM_LIT:1> ) != '<STR_LIT>' )
+IPageLayout . ID_PROBLEM_VIEW ) ;
+int TYPE_ENUM = <NUM_LIT:12> ;
+emitter ;
+] ) ) return true ;
+) . enableDebug ( false ) ;
+== null )
+) . isDirectory ( ) ) ;
+if ( root . isExternal ( ) )
+public static String MethodMover_IsChangedFrom ;
+create ( file ) ;
+net . sf . sveditor . core . db . persistence . IDBReader ;
+( )
+ActivitiesPage getActivitiesPage ( String userId , String pageToken ) ;
+getEnclosingMethod ( )
+false ) ;
+Expression getExpression ( )
+final String DEFAULT_ACTION_NAME = "<STR_LIT>" ;
+, SVDBItemType . ProgramDecl ) ;
+equals ( obj , full ) )
+. next ( ) ;
+value )
+( matcher . matches ( ) )
+) ;
+public boolean isDist ( )
+List < Incident > findIncident ( String key )
+synchronized ( eventQueue )
+( original ) ;
+public static final int APPCOMMAND_REDO = <NUM_LIT> ;
+InlineMethodConfig ;
+categoryId ) ) ;
+rubyeditor . RubyEditor ;
+blockScanner ;
+) ;
+. nullValue = false ;
+@ Test public void getConnectionTest04 ( ) throws Exception
+elements . length ) ;
+) ;
+super . setStackTrace ( exception . getStackTrace ( ) ) ;
+. getSuperClassName ( ) ;
+if ( ! ( other instanceof Concatenation ) ) return false ;
+type_list . length )
+throws GemParseException
+. asakusafw . compiler . operator . DataModelMirror ;
+RecordEmitter emitter )
+int getMajor ( )
+WorkingCopyManager ;
+"<STR_LIT>" ;
+i ++ )
+public LogPollable createClientHandler ( LogPollable ignored , ClientSideToolkit toolkit )
+name = name ;
+! results . isEmpty ( ) && results . get ( <NUM_LIT:0> ) . getClass ( ) . isArray ( ) )
+CallSearchResultCollector ( ) ;
+( ) ;
++ <NUM_LIT:1> ) ;
+out ) ;
+public boolean isAuto ( String property )
+request . getParameterValues ( "<STR_LIT>" ) )
+void addField ( DummyWidget widget )
+public FindReferencesInProjectAction ( IWorkbenchSite site )
+getBytes ( column ) ;
+< String > getPaths ( )
+String > getFilesToRename ( Collection < IFile > objects )
+this . loader = loader ;
+part != null )
+String PROP_KEY_HDFS_FILE_CLEAN_DIR = "<STR_LIT>" ;
+. Selection , new Listener ( )
+) ;
+serialVersionUID = <NUM_LIT> ;
+public DirectClassLoader ( ClassLoader parent )
+validateResults ( new String [ ]
+fOverlay . addOverlaid ( this ) ;
+) ;
+@ Override public int compare ( Viewer viewer , Object e1 , Object e2 )
+( TestunitPlugin . getImageDescriptor ( "<STR_LIT>" ) ) ;
+REGEX_LINE_DELIMITER ) ;
+&& ( ( curr . getChecked ( ) != state ) || curr . getGrayed ( ) ) )
+"<STR_LIT:name>" ;
+LongOption ;
+@ SuppressWarnings ( "<STR_LIT:deprecation>" ) public final class ImportTableLockModelOutput implements ModelOutput < ImportTableLock >
+? UNTERMINATED_COMMENT_STRING : token . image ;
+private boolean atFilterTerminator ( )
+( ( AboveAndBelow ) split . getLast ( ) ) . below == null ;
+public void beginReporting ( )
+x = x ;
+SearchScopeActionGroup group , String text )
+Looper . prepare ( ) ;
+null )
+test . prepare ( ) ;
+CategorizedProblem > getProblems ( String src )
++ "<STR_LIT>" + "<STR_LIT>" ;
+> type )
+'<CHAR_LIT::>' ) + <NUM_LIT:1> ) ;
+IntBinaryTree left , IntBinaryTree right )
+. notNull ( type , "<STR_LIT:type>" ) ;
+( ) ;
+import org . oddjob . jmx . ObjectNames ;
+< ? extends T > iter )
+, args [ <NUM_LIT:2> ] , args [ <NUM_LIT:3> ] , args [ <NUM_LIT:4> ] , false , args [ <NUM_LIT:5> ] , headers ) ;
+Label l = new Label ( c , SWT . NONE ) ;
+value ) ;
+PackageExplorerPart explorer )
+inputElement ) . getElements ( ) ;
+tablename = list . get ( <NUM_LIT:0> ) . getTableName ( ) ;
+model . getDetailTestTypeOption ( ) ) ;
+) , configuration . hasExtraPositionInformation ( ) ) ;
+. parsing . QTag ;
+. setArooaType ( ArooaType . COMPONENT ) ;
+( parent , SWT . CHECK + getListStyle ( ) ) ;
+import org . oddjob . images . IconHelper ;
+import com . asakusafw . vocabulary . external . ExporterDescription ;
+fLHS ;
+@ Override public String getPathPrefix ( )
+= new BufferType ( ) ;
+new HashMap < String , RowMatchingCondition > ( ) ;
+. parse ( ) ;
+return Messages . format ( NewWizardMessages . CPListLabelProvider_unbound_library , description ) ;
+this . region = region ;
+getVersionNoOption ( ) ) ;
+id = resultSet . getString ( <NUM_LIT:1> ) ;
+catch ( NumberFormatException e )
+@ Override public void onCreate ( Bundle savedInstanceState )
+> target )
+final String ARGUMENTS = "<STR_LIT>" ;
+out ) ;
+public List < SVDBExpr > fValueRangeList ;
+String getLastName ( )
+SVDBParamIdExpr ( String id )
+core . scanutils . StringTextScanner ;
+internal . core . parser . RubyParser ;
+FactoryConfigurationError ;
+name ) ;
+org . oddjob . logging . LogListener ;
+swt . widgets . Display ;
+variableString != null ) return variableString . hashCode ( ) ;
+extends IndexQueryRequestor
+null , "<STR_LIT:foo>" , new StringType ( <NUM_LIT:255> ) ) . toDescription ( ) ;
+Part1MockImporterDescription extends TemporaryInputDescription
+) ;
+. factory = factory ;
+exists ( ) ;
+null ;
+. runtime . io . RecordEmitter ;
+getOffset ( ) == getOffset ( ) && other . getEndOffset ( ) == getEndOffset ( ) && other . getResource ( ) . equals ( getResource ( ) ) ;
+visitor )
+isWriteAccess = fieldRef . isWriteAccess ( ) ;
+setTypeName ( String typeName )
+final int textCategoryCount = <NUM_LIT> ;
+resources ) throws IOException
+( new XMLConfiguration ( "<STR_LIT>" , xml ) ) ;
+containerPath ) ;
+hashCode ( ) , this . start ) ;
+NewWizardMessages ;
+return statistics . getHitCount ( ) ;
+class DaemonThreadFactory implements ThreadFactory
+targetTable = bean . getExportTargetTable ( tableName ) ;
+) ;
+GridLayout layout = new GridLayout ( ) ;
+( ) ;
+. length ( ) - <NUM_LIT:2> ) ;
+Visit belloVisit = new Visit ( ) ;
+, <NUM_LIT:6> ) ;
+after ( first ) ;
+CsvFieldDriver extends PropertyAttributeDriver
+return Collections . < ProjectionSpec > emptySet ( ) ;
+public Record ( ExecutionContext context , ExecutionScript script , ExecutionScriptHandler < ? > handler )
+( StaticScope node , Scope scope )
+emit ( model . getStringOption ( ) ) ;
+) ;
+net . sf . sveditor . core . db . index . ISVDBItemIterator ;
+) ;
+file )
+out ) ;
+throw new D2RQException ( "<STR_LIT>" + PrettyPrinter . toString ( property ) + "<STR_LIT>" + this , errorCode ) ;
+public void runTest ( ) throws FileNotFoundException , IOException
+private static String buildMessage ( String tag )
+public static class ByReference extends EdsSize implements Structure . ByReference
+CodeFormatter getCodeFormatter ( )
+stream . write ( b ) ;
+LEVEL_MID , "<STR_LIT>" ) ;
+refactoring . core . renamefield . RenameFieldConfig ;
+( element == null ) return null ;
+. filters ;
+"<STR_LIT>" ;
+public class Messages extends NLS
+attr ;
+tableLabel . setLayoutData ( data ) ;
+assertThat ( columns . get ( <NUM_LIT:0> ) , is ( ( Object ) <NUM_LIT:100> ) ) ;
+org . eclipse . jface . dialogs . MessageDialog ;
+IndexCacheTests extends TestSuite
+renamemethod . MethodRenamer ;
+new ArchiveAppender ( archiver , new SimpleLayout ( ) ) ;
+= ( ( ConsoleArchiver ) parent . getThisComponent ( ) ) ;
+. schedules . units . Month ;
+@ Test ( expected = IllegalStateException . class ) public void invalid_support_fail ( )
+= new Menu ( parent ) ;
+public class DummyFormViewFactory
+ModelDeclaration ;
+eclipse . osgi . util . NLS ;
+run ( )
+. execute ( logConfFilePath ) ;
+null )
+dmdl . spi . TypeDriver ;
+= RuntimeContext . DEFAULT . batchId ( "<STR_LIT:b>" ) . mode ( ExecutionMode . SIMULATION ) . buildId ( "<STR_LIT:OK>" ) ;
+public void copy ( IPath destination , int updateFlags , IProgressMonitor monitor ) throws CoreException
+( ) ;
+( true ) ) ;
+. viewers . StructuredViewer ;
+if ( JobManager . VERBOSE )
+: return getTypeForRubyScript ( ( IRubyScript ) je ) ;
+jdbc . JdbcUsersConnectionRepository ;
+[ ] mappings ( ) ;
+null ) ;
+text . source . ISourceViewer ;
+List < String > list = bean . getExportTargetTableList ( ) ;
+. rubypeople . rdt . refactoring . nodewrapper . MethodCallNodeWrapper ;
+( c == '<STR_LIT:\n>' )
+) ;
+toString ( new Object [ ]
+. getenv ( ) ) ) ;
+toRDFValue ( String dbValue )
+SVCorePlugin . getDefault ( ) . getSVDBIndexRegistry ( ) ;
+if ( cmd . numItems ( ) == <NUM_LIT:1> )
+this . verifier = verifier ;
+logger . debug ( "<STR_LIT>" + notification . getSequenceNumber ( ) ) ;
+== elem . getConfiguredHow ( ) )
+. setNewName ( name ) ;
+. springframework . jdbc . datasource . embedded . EmbeddedDatabaseFactory ;
+. values ( ) ;
+EOL + "<STR_LIT>" + EOL + "<STR_LIT:test>" ;
+) ;
+In < Ex2 > input2 , @ Export ( name = "<STR_LIT>" , description = Ex1MockExporterDescription . class ) Out < Ex1 > output )
+, getClass ( ) . getClassLoader ( ) ) ) ;
+( LookUpKey key ) throws IOException ;
+waitingPolicy , IProgressMonitor progressMonitor ) throws RubyModelException
+pos . getFile ( ) , pos . getStartLine ( ) , pos . getEndLine ( ) , pos . getStartOffset ( ) , pos . getStartOffset ( ) + name . length ( ) ) ;
+static final String MSG_TAG = "<STR_LIT>" ;
+MergeClassPartInFileConfig config = new MergeClassPartInFileConfig ( getDocumentProvider ( ) ) ;
+. ui . IEditorPart ;
+@ Test public void fragmentation_header ( ) throws Exception
+Wizard_title_new_testcase ;
+. runtime . io . ModelInput ;
+== null )
+. NAME ) ;
+extends AbstractNewSVItemFileWizard
+import org . springframework . samples . petclinic . Clinic ;
+( ) > <NUM_LIT:0> ) ;
+region ;
+"<STR_LIT>" + tok . isEndLine ( ) + "<STR_LIT>" + tok . getImage ( ) ) ;
+i < n ;
+. iterator ( ) ;
+, new ArgumentNode ( EMPTY_POSITION , name ) , new ArgsNode ( EMPTY_POSITION , new ArrayNode ( EMPTY_POSITION , new ArgumentNode ( EMPTY_POSITION , "<STR_LIT:value>" ) ) , null , null , null , null ) , new LocalStaticScope ( null ) , null ) , klass ) ;
+suite ( )
+fAttr ;
+implements ServerInterfaceHandler
+( method , clazz , now ) ;
+import com . asakusafw . windgate . core . vocabulary . FileProcess ;
+IllegalArgumentException ( "<STR_LIT>" ) ;
+. dmdl . util . AttributeUtil ;
+org . eclipse . osgi . util . NLS ;
+@ Retention ( RetentionPolicy . RUNTIME ) @ Target ( ElementType . METHOD ) public @ interface HardReset
+throw new IllegalArgumentException ( "<STR_LIT>" ) ;
+. docProvider = docProvider ;
+, C , E extends Throwable > R accept ( VisualNodeVisitor < R , C , E > visitor , C context ) throws E
+, Writable
+) ;
+setInClassConstructorRadioEnabled ( boolean inClassConstructorRadioEnabled )
+( ) ) ;
+if ( cl == null )
+. getDefault ( ) . getDefaultSourceCollectionExcludes ( ) ) ) ;
+( ) ;
+InterfaceDecl ) ;
+this . size = size ;
+parser . fill ( model . getDetailLineNoOption ( ) ) ;
+private static final long serialVersionUID = <NUM_LIT> ;
+PUSH ) ;
+asakusafw . vocabulary . flow . JobFlow ;
+public void run ( IProgressMonitor monitor ) throws InvocationTargetException
+import org . rubypeople . rdt . internal . ui . RubyPlugin ;
+oddjob . arooa . design . screem . StandardForm ;
+"<STR_LIT:]>" ) ) ;
+statements = Lists . create ( ) ;
+IRubyCompletionProposal modifier = new StatementModifierAssist ( context ) ;
+RubyDebuggerProxy ;
+= methodCallNode ;
+) ) ;
+. ITextSelection ;
+private static final String BUNDLE_NAME = "<STR_LIT>" ;
+LoggingOperatorProcessor extends AbstractOperatorProcessor
+. model . syntax . Visitor ;
+) ;
+synchronized ( missed )
+toArray ( ) ;
+] [ ] offsets =
+TableModelDescription model ;
+substring ( last + <NUM_LIT:1> ) ) ;
+public void addLabelDecorator ( ILabelDecorator decorator )
+parser . fill ( model . getPositionOption ( ) ) ;
+EntityStatistics entityStatistics )
+file ) ;
+String nodeName ) ;
+private static final long serialVersionUID = <NUM_LIT> ;
+'<CHAR_LIT>' ] = C_SEPARATOR ;
+"<STR_LIT>" + count + "<STR_LIT::U+0020>" + PrettyPrinter . toString ( t , this . graph . getPrefixMapping ( ) ) ) ;
+return this . relation = Relation . EMPTY ;
+class ) , result ) ) ;
+) ;
+final ParseResult result = parser . parse ( new StringSource ( "<STR_LIT>" , "<STR_LIT>" ) ) ;
+if ( flowId == null )
+extends AbstractInformationControl
+"<STR_LIT>" ) ) ;
+protected JavaValue ( )
+P_CONTENT_ASSIST_HOVER_USES_BROWSER = EDIT_SETTINGS + "<STR_LIT>" ;
+new StateSteps ( wait3 ) ;
+) ;
+reg . getAllByType ( Object . class ) )
+LogEventListener newListener )
+) ;
+declaration instanceof ModelDeclaration ) == false )
+getClass ( ) ) ;
+import com . asakusafw . vocabulary . flow . Out ;
+ComponentInstantiationException ( String message )
+public Text getPurchaseType ( )
+( - <NUM_LIT> ) ) ;
+SVCorePlugin . createFileFactory ( null ) ;
+wsdlLocation , new QName ( "<STR_LIT>" , "<STR_LIT>" ) ) ;
+private Out < Ex1 > out2 ;
+throws Exception
+IMPORT_FILE_DELIMITER ) ;
+file . delete ( ) == false )
+) , OPTIONS , true ) ;
+return VERSION ;
+oddjob . arooa . design . DesignParser ;
+( "<STR_LIT>" ) ) ;
+when ( routeMock . allowedMethods ( ) ) . thenReturn ( EnumSet . of ( HttpMethod . PUT , HttpMethod . DELETE ) ) ;
+path ) ;
+&& checkableItem instanceof IChildrenProvider ) setChildrenUnchecked ( ( IChildrenProvider ) checkableItem ) ;
+db . index . cache ;
+( DisposeEvent e )
+public void initialize ( ColumnViewer viewer , ViewerColumn column )
+new RuntimeException ( "<STR_LIT>" ) ;
+DummyValueMaker source = new DummyValueMaker ( "<STR_LIT:foo>" ) ;
+java . util . Calendar ;
+registered )
+current = rest . next ( ) . createCursor ( ) ;
+public static String restrictedAccess_library ;
+fUnits ;
+) ;
+, Set < ExecutionScript > executions ) throws InterruptedException , IOException
+) ;
+debug ( "<STR_LIT>" ) ;
+= driver ;
+s )
+return current ;
+@ Override public DataSize getDataSize ( )
+tableName ) ;
+Part2Output ( RecordEmitter emitter )
+( ExecutionWatcher . this )
+frames ;
+( ) [ day - <NUM_LIT:1> ] ;
+Object newInput )
+( t . getCause ( ) ) ) ;
+projectionSpecs ( )
+this . isInstanceOf = isInstanceOf ;
+fJobQueue . notifyAll ( ) ;
+public FieldsFilter ( )
+get ( "<STR_LIT>" ) , "<STR_LIT:false>" ) ) ;
+IResourceDelta [ ] projDeltas = delta . getAffectedChildren ( IResourceDelta . CHANGED ) ;
+element , IDocument document , Collection resultingMatches ) ;
+<NUM_LIT:1> ;
+. compiler . flow . testing . model . Ex1 ;
+String RubyTextHover_makeStickyHint ;
+= fPostSelectionChangedListeners . getListeners ( ) ;
+return maxHistory ;
+public final static String GOTO_MATCHING_BRACKET = "<STR_LIT>" ;
+public void setEndLocation ( SVDBLocation loc )
+<NUM_LIT:3> ;
+. internal . ui . actions . OpenActionUtil ;
+OverrideMethodTester extends TwoLayerTreeEditProviderTester
+asakusafw . utils . java . model . syntax . Visitor ;
+( Ex1 model ) ;
+( ) . getType ( ) == SVDBItemType . TypeInfoEnum )
+ConfigContextSearch search = new ConfigContextSearch ( ) ;
+. content ) ) return false ;
+util . NLS ;
+( ) == Dialog . OK )
+private final ArooaSession session ;
+( source . versionNo ) ;
+) ;
+) ;
+RUNTIME ) @ Documented public @ interface Import
+. sf . sveditor . core . tests . preproc . PreProcTests ;
+emitter . emit ( model . getTempSidOption ( ) ) ;
+org . apache . hadoop . mapreduce . Mapper ;
+ScriptRunner test = new ScriptRunner ( "<STR_LIT:result>" ) ;
+date ;
+while ( fSkipWhiteSpace && fWasWhiteSpace && ( c == '<CHAR_LIT:U+0020>' ) ) ;
+params . append ( param . getType ( ) ) ;
+toOSString ( ) ;
+this ) ;
+. ISharedImages ;
+org . eclipse . core . runtime . IProgressMonitor ;
+= result ;
+model . getSidOption ( ) ) ;
+( Date date )
+index . addIndexEntry ( category , key , getContainerRelativePath ( ) ) ;
+getPathPrefix ( )
+ExternalIoDescriptionProcessor > actives = Maps . create ( ) ;
+ITextEditor fEditor ;
+. model . StoreInfo ;
+PropertyName name , Class < A > annotationType )
+( )
+getSite ( ) . getShell ( ) ;
+< MockHoge > out ;
+rdt . internal . core . util . ASTUtil ;
+) ) ;
+ClassLoader classLoader = context . getClassLoader ( ) ;
+? > environment ) throws IOException
+setToolTipText ( SearchMessages . Search_FindReadReferencesInProjectAction_tooltip ) ;
+blockNode . add ( NodeFactory . createNewLineNode ( null ) ) ;
+: calls )
+. getColumnIndexOrThrow ( FamilyDbUtil . KEY_WATER_FRECUENCY ) ) ;
+checkNow ( ) ;
+get ( FILE . key ( ) ) ;
+long serialVersionUID = <NUM_LIT> ;
+com . asakusafw . vocabulary . windgate . WindGateImporterDescription ;
+) ) ;
+void run ( )
+ServiceRunnableFallback < T , Object >
+= <NUM_LIT:2> ;
+lessThan ( <NUM_LIT:0> ) ) ;
+. flow . JobFlow ;
+listener = notificationListener ;
+MBeanCache . class ) ;
+. Test ;
+rdt . internal . ui . RubyPlugin ;
+. IResource ;
+getDataType ( ) ) ;
+@ JsonSubTypes (
+ProjectDirectoryDialog ( Shell shell , IProject project )
+typeParameters , Constructor constructor ) ;
+master ) ;
+= tf . build ( cls_l . get ( <NUM_LIT:0> ) ) ;
+. addTestSuite ( TC_UnecessaryElseVisitor . class ) ;
+@ Override public void write ( Part1 model ) throws IOException
+SuppressWarnings ( "<STR_LIT:unchecked>" ) public DefaultCollectionServiceRunnable ( )
+[ resultLength ] ;
+) ;
+org . rubypeople . rdt . internal . core . index . Index ;
+offset ++ ;
+public char getChar ( int position ) ;
+value . write ( out ) ;
+fSuperClass ;
+public static ClassVarNode createClassVarNode ( String name )
+Document doc = b . parse ( content ) ;
+. jface . text . ITextViewer ;
+setTextFlags ( fLabelProvider . getTextFlags ( ) | RubyElementLabels . T_POST_QUALIFIED ) ;
+. junit . Test ;
+junit . framework . TestCase ;
+( ) ;
+public class TS_RenameFieldChecks extends FileTestSuite
+List < SVDBDefParamItem > getParamAssignList ( )
+exception . OAuthMessageSignerException ;
+plugin ;
+ResultSetBeanFactory ( ResultSet resultSet , PropertyAccessor accessor , ClassLoader loader ) throws SQLException , ClassNotFoundException
+nameNode ;
+return result . toString ( ) ;
+IPath path = fCurrProject . getFullPath ( ) . append ( pathStr ) ;
+ui . RubyPlugin ;
+conf ;
+<NUM_LIT> ) ;
+. sf . sveditor . core . db . project . SVDBProjectData ;
+public static boolean isValidMethodName ( String name )
+? > >
+import org . rubypeople . rdt . refactoring . ui . INewNameReceiver ;
+"<STR_LIT>" + "<STR_LIT>" ;
+@ Override @ SuppressWarnings ( "<STR_LIT:deprecation>" ) public void copyFrom ( Simple other )
+= ( IRubyElement ) element ;
+extends Attribute > modifiers ;
+. fileio . model . Ex1 ;
+( ) ;
+. getElementName ( ) , getPath ( fUnit . getResource ( ) ) }
+<NUM_LIT:0> , new XMLConfiguration ( "<STR_LIT>" , paste ) ) ;
+reqMods = <NUM_LIT:0> ;
+viewers . ViewerFilter ;
+formatter . setMasterStrategy ( new RubyFormattingStrategy ( ) ) ;
+"<STR_LIT>" . length ( ) ) ;
+( wrapper ) )
+NamedType ;
+SuppressWarnings ( "<STR_LIT:rawtypes>" ) public Object getAdapter ( Object adaptableObject , Class adapterType )
+Equality . createAttributeValue ( table1id , "<STR_LIT:1>" ) , r . condition ( ) ) ;
+length ( ) != LENGTH )
+sf . sveditor . core . SVCorePlugin ;
+result ) ;
+( repo . getRelatedId ( "<STR_LIT>" ) , is ( "<STR_LIT:id>" ) ) ;
+public static String ConfigureWorkingSetAction_label ;
+getType ( ) . getPackage ( ) . getName ( ) . startsWith ( "<STR_LIT>" ) ;
+( final GraphControlerProvider provider )
+. JobFlow ;
+BufferedReader ( new InputStreamReader ( conn . getInputStream ( ) ) ) ;
+String > getColumnNames ( Class < ? > modelType )
+> getModelType ( )
+ImageIcon icon = node . getIcon ( ) ;
+< T > iface ) throws ScriptException
+filterGraph ( ) ;
+( ) ) . thenReturn ( packageDoc ) ;
+int flags )
+private TokenEntry get ( int index )
+fViewer . getControl ( ) . isDisposed ( ) )
+suite . addTest ( new FTC_RubyDebugCommunicationTest ( "<STR_LIT>" ) ) ;
+boolean isType ( ISVDBItemBase item , SVDBItemType ... types )
+throw new RuntimeException ( "<STR_LIT>" + getClass ( ) ) ;
+. ToggleViewAction_subtypes_description ) ;
+SelectionEvent e )
+String type_class , String typename )
+IAction action , IWorkbenchPart targetPart )
+, <NUM_LIT:4> ) ;
+= new SimpleMBeanNode ( objectName , mBeanServer , new ClassLoaderClassResolver ( getClass ( ) . getClassLoader ( ) ) ) ;
+setDescription ( TypeHierarchyMessages . SortByDefiningTypeAction_description ) ;
+public class Subtract extends BinaryOperator
+indentAfterPrint ( IndentationState state )
+"<STR_LIT>" ) ;
+, superinterfaces ) ;
+SVDBMinTypMaxExpr ( SVDBExpr min , SVDBExpr typ , SVDBExpr max )
+public void testNodeContainsCaretPosition ( )
+@ Override public boolean readTo ( ExJoined2 model ) throws IOException
+. ArooaContext ;
+social . oauth2 . AccessGrant ;
+. getLineDelimiter ( document ) ) ;
+public void testUpdating ( ) throws GemParseException
+testRunEnded ( long elapsedTime ) ;
+file ) ) ;
+return value ;
+= new Button ( result , SWT . PUSH ) ;
+false ;
+, long upper )
+> joinConditions ( )
++= genMemberDetail ( docFile , contentItem ) ;
+Image ret = null ;
+. visitDefnNode ( iVisited ) ;
+compiled = mapFragmentEmitter . emit ( fragment , block ) ;
+ByteOption . class ) ;
+public static final String INHERITED_COLOR_NAME = "<STR_LIT>" ;
+? > getModelType ( )
+compositeLayout = new GridLayout ( ) ;
+. peekKeyword ( "<STR_LIT>" , "<STR_LIT>" , "<STR_LIT>" ) )
+, bundle ) ;
+. parser . warnings . TS_ParserWarnings ;
+layoutMethod , container , component , handler . getValueAs ( attribute . getValue ( ) , layoutMethod . getParameterTypes ( ) [ <NUM_LIT:1> ] ) ) ;
+errors = errors ;
+swt . layout . GridLayout ;
+. toNameString ( ) . replace ( '<CHAR_LIT:.>' , '<CHAR_LIT:/>' ) ) ;
+public SVLexer lexer ( )
+( actual == null )
+asakusafw . vocabulary . flow . FlowDescription ;
+. put ( node . getName ( ) , node ) ;
+catch ( BadLocationException e )
+( t . getKind ( ) == IrDocElementKind . ARRAY_TYPE )
+= <NUM_LIT:0> ;
+close ( ) ;
+. JobFlow ;
+if ( config . getTargetMethod ( ) . isWriter ( ) )
+private final HttpServletRequest request ;
+NewWizardMessages . CPVariableElementLabelProvider_empty ) ;
+sleep ( <NUM_LIT:1000> ) ;
+WireType_Shift ) ;
+public static Test suite ( )
+while ( subjects . hasNext ( ) )
+, IDENTIFIER , AT , DOT , COMMA , SHARP , LEFT_BRACKET , RIGHT_BRACKET , LEFT_BRACE , RIGHT_BRACE , LEFT_PAREN , RIGHT_PAREN , LESS , GREATER , SLASH , QUESTION , TEXT , EOF , }
+private static final Logger LOG = Logger . getAnonymousLogger ( ) ;
+. size ( ) ) ;
+getFont ( final String key )
+( )
+( ) ;
+String name ( ) ;
+flags ) ) adornments |= RubyElementImageDescriptor . STATIC ;
+editor instanceof RubyEditor ) fEditor = ( RubyEditor ) editor ;
+@ Override public FlowElementOutput toOutputPort ( )
+) ;
+import org . eclipse . swt . layout . GridLayout ;
+. plus . person . impl ;
+obj == null )
+Override public Object execute ( ExecutionEvent event ) throws ExecutionException
+static String RubyOutlinePage_Sort_label ;
+, Simple . class ) . prepare ( "<STR_LIT>" ) ;
+public SVDBGenerateBlock ( )
+, ClassLoader serviceClassLoader )
+public Node getNode ( )
+void performOk ( )
+this . actions = actions ;
+client ) . lookup ( "<STR_LIT>" ) == null )
+( Type type , String name )
+doUpdateItem ( Widget item )
+testFindWithSingleCharWildcard ( )
+Integer getMnemonicKey ( )
+getExpr ( )
+@ Override public String extractName ( Row row ) throws FormatException
+. results . get ( <NUM_LIT:4> ) . getMessage ( ) ) ;
+, <NUM_LIT:11> , <NUM_LIT:20> ) ) ;
+"<STR_LIT>" ;
+( final File rubyExecutable )
+Target (
+ImportBean bean = new ImportBean ( ) ;
+) return lock ;
+fetchFamilybyName ( family ) ;
+return resourceBundle ;
+!= null )
+( final LogEventListener newListener ) ;
+. sf . sveditor . core . db . expr . SVDBExpr ;
+EdsVolumeInfo ( NativeLong storageType , int access , long maxCapacity , long freeSpaceInBytes , byte szVolumeLabel [ ] )
+setHelp ( this , IRubyHelpContextIds . CALL_HIERARCHY_SEARCH_SCOPE_ACTION ) ;
+T > implements DrainDriver < T >
+String KEY_BASE_PATH = "<STR_LIT>" ;
+return ( id . equals ( "<STR_LIT:date>" ) || id . equals ( "<STR_LIT:user>" ) ) ;
+inline ) ;
+index ;
+) ;
+( SelectionEvent e )
+"<STR_LIT:.>" + f . getName ( ) ) ;
+new CustomerServiceFactory ( PersonConstants . CUSTOMER_SERVICE_USER_ID , PersonConstants . CUSTOMER_SERVICE_PASSWORD , PersonConstants . CUSTOMER_SERVICE_ENDPOINT ) ;
+medium . prompt ( prompt , defaultValue ) ;
+className , String attributeName , boolean readerSelected , boolean writerSelected )
+head ;
+spi . PropertyAttributeDriver ;
+emitter . emit ( model . getShipmentStoreCodeOption ( ) ) ;
+new RuntimeException ( "<STR_LIT>" ) ;
+= statement . executeQuery ( "<STR_LIT>" + value ) ;
+Openable element = ( Openable ) entry . _fKey ;
+annotation . ElementType ;
+T > ( ) ;
+) throws RubyModelException ;
+column ) )
+( "<STR_LIT>" ) ;
+. eclipse . core . runtime . IProgressMonitor ;
+Object [ ] getChildren ( Object elem )
+OddjobConfigException ( String msg , Location location )
+"<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT:n>" + "<STR_LIT>" + "<STR_LIT:n>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT:n>" + "<STR_LIT>" ;
+springframework . web . bind . annotation . PathVariable ;
+) ;
+is ( <NUM_LIT:1> ) ) ;
+new MyJob ( ) ;
+conf . Configuration ;
+JavaHeapObjectVisitor v )
+public void setName ( String name )
+private final SystemLoader loader ;
+public static String AbstractRubyMainTab_0 ;
+File a = folder . newFile ( "<STR_LIT>" ) ;
+<NUM_LIT:0> ;
+. addPartListener ( this ) ;
+list )
+getValue ( ) . setLogLevel ( level ) ;
+<NUM_LIT:8> , sum ) ;
+new TypeSelectionDialog2 ( Display . getDefault ( ) . getActiveShell ( ) , false , PlatformUI . getWorkbench ( ) . getProgressService ( ) , SearchEngine . createWorkspaceScope ( ) , IRubySearchConstants . TYPE ) ;
+( parser . next ( ) , is ( true ) ) ;
+( lib . getSystemLibraryPath ( ) ) ;
+) ;
+if ( nextCase instanceof WhenNode )
+return false ;
+arooa . design . DesignParser ;
+( in , is ( notNullValue ( ) ) ) ;
+Set < SVDBClassDecl > cls_set = fMethodsFinder . getClassSet ( ) ;
+getParamAssignList ( )
+public class SVDBLibIndex extends AbstractSVDBIndex
+IllegalArgumentException ( ) ;
+@ Autowired private JdbcTemplate jdbcTemplate ;
+class ) ;
+null ) return null ;
+core . db . ISVDBNamedItem ;
+. Persistable ;
+( x ) ;
+) ;
+ret . fIsString = fIsString ;
+getTargetName ( )
+( ( ISourceFolder ) object ) . getRubyProject ( ) ;
+public ISVDBIndex createSVDBIndex ( String project_name , String base_location , ISVDBIndexCache cache , SVDBIndexConfig config )
+SVDBVarDimItem > dim )
+. delete ( ) == false && file . exists ( ) )
+protected Object [ ] nonRubyResources ;
+annotation . Retention ;
+import com . asakusafw . runtime . io . RecordParser ;
+. Target ;
+( )
+) throws Exception
+( "<STR_LIT>" ) ;
+getSelectedNodes ( ) instanceof StrNode ) ;
+class TS_RdtAllUnitTests
+private final SimpleTextAttribute fromMonth ;
+( engine ) ;
+( contents == null ) return ;
+, start , result , <NUM_LIT:0> , end - start ) ;
+, TsvDeleteType > REVERSE_DICTIONARY ;
+= <NUM_LIT:2> ;
+OutputStream ;
+manager )
+getLogger ( WindGateAbort . class ) ;
+( )
++ "<STR_LIT>" + "<STR_LIT>" ) ;
+Collections . sort ( tableNames , new Comparator < String > ( )
+( i2 ) ;
+) ;
+. javadoc . ir ;
+rdt . ui . viewsupport . ImageDescriptorRegistry ;
+fInWorkspaceOk ) ;
+< MockKeyValue1 >
+"<STR_LIT:(>" ) ;
+public synchronized void stop ( )
+( ) )
+new ArrayList < String > ( ) ;
+public void setImageSize ( Point size )
+super ( SVDBItemType . ConstraintSolveBeforeStmt ) ;
+input , "<STR_LIT>" ) ;
+return false ;
+. ATTR_VM_INSTALL_NAME ;
+) )
+private void createInlinedMethodBody ( IDocumentProvider doc )
+e . printStackTrace ( ) ;
+super ( name ) ;
+IToken fToken ;
+public String getTitle ( )
+IViewerCreator ;
+BundleUtils ( SVCoreTestsPlugin . getDefault ( ) . getBundle ( ) ) ;
+import java . util . Observable ;
+? > operation , Object [ ] params ) throws MBeanException , ReflectionException
+@ Override public DataModelPreparedStatement < Pair > createPreparedStatementSupport ( final PreparedStatement statement , List < String > columnNames )
+SQLBit extends DataType
+if ( fLexer . peekKeyword ( "<STR_LIT:type>" ) )
+find ( ModelReference reference )
+return this . key ;
+ServerContext getContext ( ) ;
+protected final int readValueLength ( ) throws IOException
+( ) , jobContext . getJobID ( ) ) , e ) ;
+< N ;
+ps . print ( expr . getOp ( ) ) ;
+, IViewActionDelegate
+FILE_FOOTER ) )
+format ( "<STR_LIT>" , getCacheName ( ) ) ) ;
+data . write ( buffer ) ;
+. emit ( model . getTradeNoOption ( ) ) ;
+public void testInAccessable ( ) throws Exception
+. getValueOption ( ) ) ;
+, "<STR_LIT>" , markers ) ;
+SqlDriver extends DataModelScanner < Builder < ? > , SQLException >
+import com . asakusafw . vocabulary . flow . JobFlow ;
+event ) ;
+while ( rs . hasNext ( ) )
+f . setParent ( this ) ;
+T > definition ;
+import net . sf . sveditor . core . db . index . ISVDBIndexIterator ;
+) ;
+"<STR_LIT>" ;
+dataTypeMap . put ( mySqlStr , type ) ;
+TestSuite suite = createSuite ( "<STR_LIT>" , "<STR_LIT>" , ConstructorGeneratorTester . class ) ;
+return new UserInterceptor ( usersConnectionRepository ) ;
+LogLevel . DEBUG , - <NUM_LIT:1> , <NUM_LIT:1000> ) ;
+RubyUI . ID_PLUGIN + "<STR_LIT>" ;
+public class Task implements ISourceReference
+fDecorator . decorateImage ( super . getImage ( methodWrapper . getMember ( ) ) , methodWrapper ) ;
+dependants ;
+= JdbcResourceUtil . convert ( profile , script , arguments , DriverScript . Kind . SOURCE ) ;
+viewers . ILabelProvider ;
+[ i ] , LinkedPositionGroup . NO_STOP ) ) ;
+<NUM_LIT:100> ) ;
+<NUM_LIT:1> ;
+String path = variables . parse ( rawBasePath , false ) ;
+public abstract class TypeDriver
+, oj . lastStateEvent ( ) . getState ( ) ) ;
+getFieldNameOf ( source . getName ( ) , source . getType ( ) ) . getToken ( ) ) ) ;
+( int i = <NUM_LIT:0> ;
+VM_TYPE_ID ) ;
+< Class > fSupportedObjects ;
+public SVDBExpr fExpr ;
+. setCommand ( echoCmd + "<STR_LIT>" ) ;
+( ) ;
+DialogDisposeListener ( final Shell shell )
+configuration ;
+< T > , Iterable < T > , ValueFactory < List < T > > , BusAware
+COMPLETE ;
+BUNDLE_NAME = "<STR_LIT>" ;
+Collection < ConstructorCall > findAll ( IDocumentProvider doc , String name , String modulePrefix ) ;
+. elements = Util . loadService ( DataModelAdapter . class , serviceClassLoader ) ;
+) ;
+) ) ;
+. wiwiss . d2rq . sql . ResultRow ;
+public SVDBIncludeSearch ( ISVDBIndex index )
+. swt . widgets . Composite ;
+( names [ i ] ) ) referencedProjects . add ( workspaceProject ) ;
+VALUEIN > getRendezvous ( KEYIN key ) ;
+final Throwable e )
+static Map < String , ColumnMatchingCondition > japaneseNameMap = new HashMap < String , ColumnMatchingCondition > ( ) ;
+final String DESIGN_GROUP = "<STR_LIT>" ;
+return <NUM_LIT:0> ;
+DEFAULT_LINE_BREAK_IN_VALUE = true ;
+fParent = parent ;
+return null ;
+. TreePath ;
+private static final ResourceBundle BUNDLE = ResourceBundle . getBundle ( "<STR_LIT>" ) ;
+private Node root ;
+? extends Expression > arguments ;
+, SQLException
+. vocabulary . model . Joined ;
+java . util . Set ;
+path . getAbsolutePath ( ) , SVDBSourceCollectionIndexFactory . TYPE , null ) ;
+import org . oddjob . jmx . server . ServerInterfaceHandlerFactory ;
+( List < ? extends Object > items ) throws Exception
+return jarName ;
+core . WindGateLogger ;
+parser . next ( ) == false )
+. getTimeZone ( "<STR_LIT>" ) ) ;
+) , context . getFlowId ( ) , context . getExecutionId ( ) , context . getPhase ( ) , getJobLabel ( ) , getServiceLabel ( ) ) ;
+return connected ;
+class JavaDouble extends JavaValue
+isDisposed ( ) ) color . dispose ( ) ;
+ATTR_LOADPATH = LaunchingPlugin . getUniqueIdentifier ( ) + "<STR_LIT>" ;
+. class . getName ( ) ;
+result = null ;
+new OperationCanceledException ( e . getMessage ( ) ) ;
+OPT_COMPILERWORK . setArgName ( "<STR_LIT>" ) ;
+public String schemaName ( )
+. profileName = profileName ;
+class ) ;
+< SVDBMarker > markers ) ;
+) ) ) ;
+, int max ) ;
+public IRubyElementDelta [ ] getChangedChildren ( ) ;
+( ) throws Exception
+-- ;
+( ) )
+( SVEditorPrefsConstants . P_CONTENT_ASSIST_TIMEOUT , "<STR_LIT>" , general_group ) ) ;
+( Snapshot snapshot )
+. rdt . core . compiler . IProblem ;
+throws DebuggerNotFoundException , IOException
+private boolean replaceAll ;
+) @ Override public void fill ( FloatOption option ) throws CsvFormatException , IOException
+TaskInstance ;
+ArooaConversionException ;
+private Process createProcess ( List < String > localCommand , Map < String , String > extraEnv ) throws IOException
+private String property ;
+. switchObject ( <NUM_LIT:2> ) ) . modify ( "<STR_LIT>" ) ;
+case PropertyEditor . NAME_COLUMN_NUM : rc = pair . getName ( ) ;
+FileEditProvider getInsertMethodInTargetClassProvider ( )
+design . getClass ( ) ) ;
+( "<STR_LIT>" ) . setLevel ( Level . OFF ) ;
+NONE ) ;
+join ( Ex1 ex1 , Ex2 ex2 ) ;
+short ) <NUM_LIT:100> ) ;
+return AttributeHelper . getTableName ( getNormalModelType ( ) ) ;
+class ) ;
+) ) ;
+this . etag = value ;
+. ui . RdtDebugUiMessages ;
+wrappedNode ;
+super ( SVDBItemType . StringExpr ) ;
+= null ;
+( ) ;
+return evaluationText ;
+else if ( ! valueStart . startsWith ( pattern . firstLiteralPart ( ) ) )
+test . getTextLoader ( ) . getClass ( ) ) ;
+true , true ) ;
+optBoolean ( int index )
+. setLabelProvider ( this ) ;
+public static final int DATE_FIELD_LENGTH = <NUM_LIT:2> ;
+output ) ;
+public void close ( ) throws IOException
+if ( other == null )
+e )
+) || ! this . propertyBridges . isEmpty ( ) ) ;
+( ) ;
+logger ;
+lang . annotation . Retention ;
+boolean isSameTypeAs ( JavaThing other )
+"<STR_LIT>" ) ;
+import org . eclipse . ui . IViewPart ;
+> script ( )
+public Class < ? > getModelType ( )
+OpentoxManager manager = new OpentoxManager ( ) ;
+( model . getCCommentOption ( ) ) ;
+( other . floatValue != null )
+return results ;
+( ) ;
+final long serialVersionUID = <NUM_LIT> ;
+config . setSelectableClasses ( selectableClasses ) ;
+String toString ( )
+FieldLocator ( ( FieldPattern ) pattern ) ;
+. vocabulary . operator . Logging ;
+static Throwable close ( final Reader src )
+if ( other != null )
+e )
+) || statement . canBeAccessedWithKey ( password ) ;
+public ExOperatorFactory . Update update ( Source < Ex1 > model , int value )
+createDispatcher ( final EventManager eventManager , final Method method )
+arraycopy ( rightPatterns , <NUM_LIT:0> , this . patterns , leftSize , rightSize ) ;
+[ ] regions , ISpellChecker checker , Locale locale , ISpellingProblemCollector collector , IProgressMonitor monitor )
+length ) - <NUM_LIT:1> ) ) ) ;
+void configureScope ( ServiceProfile < ? > profile ) throws IOException
+public int compare ( Viewer viewer , Object e1 , Object e2 )
+name ) ;
+. update ( ) ;
+output ( Class < T > dataType , Object object , String name )
+) ) ;
+) ;
+( scope != null && scope instanceof ISVDBChildParent )
+description = description ;
+public static Test suite ( )
+import java . util . Collections ;
+import org . rubypeople . rdt . ui . IContextMenuConstants ;
+, EXCEPTION ( )
+. activity . ActivityQueryBuilder ;
+ItemReader < Object >
+] ;
+import org . junit . Test ;
+processDescription ( JobFlowWorkDescription desc , JobflowModel model ) throws IOException
+supportsDistinct ;
+List < ? extends Type > typeArguments )
+( RecordParser parser )
+= extractor . execute ( args ) ;
+public static final String NAME = Messages . ExtractMethodRefactoring_Name ;
+action . setRepositoryUrl ( "<STR_LIT>" ) ;
+private Set < String > uniqueTypeNames ( IType [ ] types )
+IRuntimeLoadpathEntry [ ] resolveRuntimeLoadpathEntry ( IRuntimeLoadpathEntry entry , IRubyProject project ) throws CoreException ;
+( optionClass , "<STR_LIT>" ) ;
+static String KAHVA_SERVICE_FULL_URL = KoKuPropertiesUtil . get ( "<STR_LIT>" ) ;
+List < OperatorPortDeclaration > parameters ;
+ProcessProfile . KEY_PREFIX + "<STR_LIT>" + BaseProfile . QUALIFIER + "<STR_LIT>" , "<STR_LIT>" ) ;
+return testDate ;
+host ;
+fDefault = dflt ;
+public void aggregators ( ) throws Throwable
+ArooaBeanDescriptor bd = descriptor . getBeanDescriptor ( new SimpleArooaClass ( Oddjob . OddjobRoot . class ) , session . getTools ( ) . getPropertyAccessor ( ) ) ;
+inferOriginalName == null ) ? <NUM_LIT:0> : inferOriginalName . hashCode ( ) ) ;
+return trueFormat ;
+. VALUE ) ;
+Override public boolean accepts ( Object expected , Object actual )
+( ) ) ;
+( RdtDebugCorePlugin . PLUGIN_ID + "<STR_LIT>" ) ;
+public String getDescription ( )
+public SimpleShuffleStage ( @ Import ( name = "<STR_LIT>" , description = Ex1MockImporterDescription . class ) In < Ex1 > in , @ Export ( name = "<STR_LIT>" , description = ExSummarizedMockExporterDescription . class ) Out < ExSummarized > out )
+. deploy . NoAnnotations ;
+"<STR_LIT>" ) ;
+search ;
+) . get ( "<STR_LIT>" ) ) ;
+( Class < ? extends FlowDescription > aClass )
+SVDBItemType . Bind ) ;
+public AcceptableJavadocBlockParser ( )
+if ( c == - <NUM_LIT:1> )
+public void setFile ( String file )
+( BrokenSchedule . class ) ;
+Object create ( ObjectName objectName ) ;
+run ( MergeClassPartsInFileRefactoring . class , MergeClassPartsInFileRefactoring . NAME ) ;
+: "<STR_LIT>" ;
+protected void elementsChanged ( Object [ ] objects )
+vocabulary . flow . Out ;
+org . rubypeople . rdt . refactoring . offsetprovider . BeforeFirstMethodInClassOffsetProvider ;
+) ;
+isComplete ( )
+java . lang . annotation . Target ;
+. get ( "<STR_LIT>" ) , eq ( ( short ) <NUM_LIT> ) ) ;
+( )
+= create ( conf ) ;
+org . rubypeople . rdt . internal . debug . core . parsing . XmlStreamReader ;
+. LibrariesWorkbookPage_NewClassFolderDialog_edit_title ;
+getValueOption ( ) ) ;
+. equals ( RENAME_FIELD ) ) ;
+= rest . indexOf ( "<STR_LIT>" ) ;
+COMPILER_PB_ENUMERABLE_MISSING_METHOD ;
+( "<STR_LIT>" ) ;
+( SelectionEvent e )
+String name = fCurrElement . getPath ( ) . makeRelative ( ) . toString ( ) ;
+i = start ;
+return uid ;
+@ XmlElement public List < Vet > getVetList ( )
+. MockHoge ;
+result = prime * result + alias . hashCode ( ) ;
+public void testCreate ( ) throws ArooaParseException
+public class XmlParserSax
+int hashCode ( )
+isDebugEnabled ( ) )
+return PROPERTIES ;
+f . newFormalParameterDeclaration ( context . resolve ( OutputStream . class ) , stream ) ) , <NUM_LIT:0> , Arrays . asList ( context . resolve ( IOException . class ) ) , f . newBlock ( statements ) ) ;
+AttributeUtil ;
+builder3 . declareParameter ( Ex1 . class ) ;
+import com . asakusafw . vocabulary . flow . FlowDescription ;
+class DescribeableHandlerFactory implements ServerInterfaceHandlerFactory < Object , Describeable >
+. class ) ;
+fName ;
+private int getEndOffset ( )
+< classes . length ;
+] env = super . getEnvironment ( config ) ;
+if ( ! DELETE_DEBUG )
+, expr2 , "<STR_LIT>" ) ;
+debug . ui . console . IConsoleColorProvider ;
+Map < String , String > description = new LinkedHashMap < String , String > ( ) ;
+) )
+extends BaseDC
+( createReader ( model ) ) ;
+eclipse . jface . viewers . OpenEvent ;
+editor . SVEditor ;
+parser ) ;
+IStatus . OK ;
+, List < String > paths ) throws CoreException
+java . io . IOException ;
+private final Context context ;
+. length ( ) != <NUM_LIT:0> )
+else if ( fromMonth != null )
+, attribute , BasicTypeKind . TEXT ) ;
+) ) ;
+asakusafw . yaess . core . ProfileContext ;
+. ModelInput ;
+output ;
+. vocabulary . flow . Import ;
+printThing ( fieldThing . thing ) ;
+private String internalGetText ( Object o )
+item ) ) ;
+openFileWrite ( String path )
+( SVDBExpr expr )
+String , String > > getTemplates ( )
+find_class_refs ( String name )
+, int offset ) ;
+. debug . core . model . IRubyStackFrame ;
+( ) ;
+= ( RubyElementLine ) e2 ;
+google . android . c2dm . C2DMBaseReceiver ;
+public Owner getOwner ( )
+null , ( Node ) null ) ) ) ;
+. util . List ;
+( )
+error ( new Collector ( new MockOperatorProcessor ( ) ) ) ;
+org . rubypeople . rdt . internal . ui . wizards . RubyProjectWizard ;
+IMG_OBJ_PROJECT ) ;
+. design . screem . BorderedGroup ;
+. dmdl . semantics . ModelSymbol ;
+import com . asakusafw . compiler . flow . testing . external . Ex2MockImporterDescription ;
+java . lang . annotation . Retention ;
+catch ( WorkbenchException e )
+. getWrappedNode ( ) ) . getArgsNode ( ) ;
+emitter ;
+o instanceof RubyImport ) ) return false ;
+public static ShamResourceChangeEvent forClose ( ShamProject project )
+String name ;
+) ;
+flow . JobFlow ;
+) ;
+Thread . currentThread ( ) . getContextClassLoader ( ) ;
+algebra . NodeRelation ;
+p , "<STR_LIT>" , map ) ;
+: intProperty ( name , context ) ;
+String doAction ( ) throws IOException
+RecordEmitter emitter ;
+null ) ;
+imports . add ( convert ( input . getDescription ( ) ) ) ;
+) throws DebugException
+startsWith ( prefixPlusDot ) )
+class TriggerStateListener implements StateListener
+vocabulary . flow . JobFlow ;
+new Properties ( ) ;
+"<STR_LIT>" ) ;
+org . vaadin . teemu . clara . inflater . LayoutInflater ;
+for ( Node aktNode : methodNodes )
+< ClassLoader > initialValue ( )
+boolean is_default , String description )
+new StringSink ( "<STR_LIT:test>" ) ;
+( ) ) ;
+Out ;
+newja . length ( ) > <NUM_LIT:0> )
+, false ) ;
+<NUM_LIT:0> , msg ) ;
+= table ;
+@ Override protected void describe ( )
+String pathName )
+@ Override public Throwable getCause ( )
+( "<STR_LIT>" ) ) ;
+= <NUM_LIT:0> ;
+== null )
+public class ConstNameValidator implements IValidator
+if ( javaAnnotationLine <= line && line <= document . getLineOfOffset ( position . getOffset ( ) + position . getLength ( ) ) ) return <NUM_LIT:2> ;
+if ( part instanceof RubyEditor )
+case IResourceDelta . CHANGED : return "<STR_LIT>" ;
+= new MapParser ( mapModel , "<STR_LIT>" ) ;
+return Collections . unmodifiableList ( sortedSpecs ) ;
+sink . result ( ) ) ;
+. pop ( ) ;
+asakusafw . utils . java . model . syntax . PackageDeclaration ;
+factory , "<STR_LIT>" , in ) ;
+. core . vocabulary . StreamProcess ;
+@ Test public void trailingNumbers ( )
+. NORTH ;
+public class SVHierarchyViewerFilter extends ViewerFilter
+, is ( not ( <NUM_LIT:0> ) ) ) ;
+) ;
+, null , XSDDatatype . XSDint ) , PrefixMapping . Standard ) ) ;
+private long fBlockSize ;
+composite , FormatterMessages . IndentationTabPage_general_group_title ) ;
+. size ( ) ;
+"<STR_LIT>" ) ;
+Simple simple = new Simple ( ) ;
+IMAGE_PNG , false ) ) ;
+( value ) )
+SPACE_BEFORE_CLOSING_BLOCK_BRACKET = "<STR_LIT>" ;
+id )
+extends AbstractUIPlugin
+fs , conf , file , NullWritable . class , dataType , compressionType , codec , context ) ;
+<NUM_LIT:0> ) fPreferences . addPropertyChangeListener ( fListener ) ;
+if ( obj == null )
+import org . rubypeople . rdt . core . RubyModelException ;
+= false ;
+IRubyElement primaryParent = this . parent . getPrimaryElement ( false ) ;
+org . oddjob . arooa . design . screem . Form ;
+gems . InstallGemDialog ;
+ArooaAttribute ;
+( id ) ;
+) . getVariables ( ) , localNames ) )
+. isType ( IRubyElement . METHOD ) )
+( )
+) ;
+getElementType ( )
+find ( bundle , path , null ) ;
+throw new RuntimeException ( "<STR_LIT>" + getClass ( ) ) ;
+( profile ) ;
+import net . sf . sveditor . core . db . SVDBItemType ;
+null ) ;
+) ) menu . appendToGroup ( IContextMenuConstants . GROUP_OPEN , action ) ;
+public Class < ? > getType ( )
+) ;
+= LaunchingPlugin . getDefault ( ) . getPluginPreferences ( ) ;
+ArrayList < Key > ( ) ;
+ICONS_PATH + "<STR_LIT>" ;
+"<STR_LIT>" ) ) ;
+container . setLayoutData ( data ) ;
+&& isNullableStr . equals ( MySQLConstants . STR_NOT_NULL ) )
+( AccessorType otherType )
+true ) ) ;
+, test . evaluate ( ServiceState . STARTING , ServiceState . READY ) ) ;
+void setRawLoadpath ( ILoadpathEntry [ ] newEntries , IPath newOutputLocation , IProgressMonitor monitor , boolean canChangeResource , ILoadpathEntry [ ] oldResolvedPath , boolean needValidation , boolean needSave ) throws RubyModelException ;
+while ( MCBans . notSelectedServer )
+<NUM_LIT:31> ;
+this . in2 = in2 ;
+setPreferenceStore ( RubyPlugin . getDefault ( ) . getPreferenceStore ( ) ) ;
+. class , new CommentEmitTrait ( Arrays . asList ( MessageFormat . format ( "<STR_LIT>" , runtimeType ) ) ) ) ;
+) return null ;
+row , ConditionSheetItem . NULLABLE . getCol ( ) ) ;
+( ) ;
+) ) ;
+size = fRootElements . size ( ) ;
+public void testLastDayOfMonthWithTimeOverMidnight ( ) throws ParseException
+static final int NOTIF_ALERTA_ID = <NUM_LIT:1> ;
+T > ModelInput < T > openInput ( Class < ? extends T > dataType , DataFormat < T > format , DirectInputFragment fragment , Counter counter ) throws IOException , InterruptedException ;
+super ( DirectOutputSpec . getValueTypes ( specs ) ) ;
+ClassNodeWrapper selectedClass , int selectedClassPartNumber )
+) ;
+start ( ) ;
+. TextFileDocumentProvider ;
+GroupSortOperatorProcessor extends AbstractOperatorProcessor
+com . asakusafw . utils . java . model . syntax . TypeBodyDeclaration ;
+) ;
+) @ SuppressWarnings ( "<STR_LIT:deprecation>" ) public final class ImportRecordLockModelOutput implements ModelOutput < ImportRecordLock >
+, insert . toString ( ) ) ;
+this . firstLiteralPart + "<STR_LIT>" ;
+) . replace ( value . trim ( ) , true ) ;
+SourceKind . RANDOM ) )
+resourcePackets . CardLayoutPacket ;
+public Column ( Attribute attribute )
+] ) ;
+( ) . equals ( TetherService . INTENT_MANAGE ) )
+( e , "<STR_LIT>" , id , path ) ;
+private boolean fRubydocResolved = false ;
+public static Test suite ( )
+, trace ) ;
+( runtimeLib == null )
+< T > in2 , Out < T > out1 , Out < T > out2 )
+result = ( EntryResult ) values [ i ] ;
+( JobState . READY , Helper . getJobState ( lookup . lookup ( "<STR_LIT:3>" ) ) ) ;
+s = fProvider . getSelection ( ) ;
+description + "<STR_LIT>" ) ;
+public void setWidth ( int width )
+import com . asakusafw . runtime . io . RecordParser ;
+super ( pattern ) ;
+( "<STR_LIT:}
+String comment ;
+public void testNextDayOfWeekOverllaping ( ) throws ParseException
+, last , history ) ;
+fElement = element ;
+new String [ ]
+StringBuilder ( ) ;
+org . rubypeople . rdt . ui . RubyElementLabels ;
+[ <NUM_LIT:0> ] = b ;
+( "<STR_LIT>" , "<STR_LIT>" , MoveMethodTester . class ) ;
+getState ( ) ) ;
+( ) ;
+) ;
+testSimpleDocument ( )
+IFile ;
+assert symbol != null ;
+statements . add ( new ExpressionBuilder ( factory , list ) . toReturnStatement ( ) ) ;
++ "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" ;
+addTestSuite ( GemOnePointTwoParserTest . class ) ;
+pos ;
+fRefList ;
+= new Oddjob ( ) ;
+str . toString ( ) ;
+. getInstance ( ) ;
+"<STR_LIT>" ;
+new HashMap < String , List < StringSinkFactory > > ( ) ;
+public int compare ( CompletionProposal o1 , CompletionProposal o2 )
+flow = new FlowDescriptionDriver ( ) ;
+= ( IrDocNamedType ) obj ;
+iterator . NullIterator ;
+Image image ;
+) ;
+IntOption option )
+) ) ;
+( ) : "<STR_LIT>" ;
+Override public final void onReceive ( Context context , Intent intent )
+( Node node , int offset )
+. append ( '<CHAR_LIT:U+0020>' ) ;
+( MethodDefNode ) NodeProvider . unwrap ( NodeProvider . getRootNode ( "<STR_LIT>" , doc . get ( ) ) . getBodyNode ( ) ) ;
+public void run ( Runnable job )
+[ ] selected = getNewEntries ( ) ;
+Oddjob oddjob = new Oddjob ( ) ;
+. TemporaryOutputDescription ;
+assertThat ( lowList . size ( ) , is ( <NUM_LIT:1> ) ) ;
+deltaSize )
+getVersionAsText ( ) + "<STR_LIT>" + className + "<STR_LIT:n>" + "<STR_LIT>" + factory . interfaceClass ( ) . getName ( ) + "<STR_LIT>" ) ;
+fgPropertyDescriptors [ <NUM_LIT:0> ] = descriptor ;
+) tag = tag . toLowerCase ( ) ;
+) ;
+. ElementType ;
+. rdt . internal . ui . search . RubySearchScopeFactory ;
+d2rq . sql . types . SQLCharacterString ;
+public void testOddWithFrom ( )
+ModuleDecl ) ;
+List < Type > invoked = TypeUtil . invoke ( List . class , IStringList . class ) ;
+( "<STR_LIT>" + job + "<STR_LIT:]>" ) ;
+batch . clear ( ) ;
+. hashCode ( word ) % length ;
+test . accept ( list ) ;
+return true ;
+) ) return null ;
+getOddjob ( )
+gc ( ) ;
+catch ( CoreException e )
+file . getLocation ( ) . toOSString ( ) ) ;
+buf . append ( line ) ;
+. annotate . JsonCachable ;
+asakusafw . runtime . io . RecordParser ;
+mapperClass ;
+name = "<STR_LIT>" ) public class SummarizeBatch extends BatchDescription
+public class LoggingPrintStream extends PrintStream
+= ResourceBundle . getBundle ( BUNDLE_NAME ) ;
+String directoryName = getLinkTarget ( ) . trim ( ) ;
+. asakusafw . utils . graph . Graph ;
+. ast . RootNode ;
+( RESOURCE ) )
+break ;
+java . lang . annotation . ElementType ;
+= writerGenerationDisabled ;
+void setTestFinished ( Date testFinished )
+. next ( ) )
+( ElementType . TYPE ) @ Retention ( RetentionPolicy . RUNTIME ) @ Documented public @ interface SummarizedModel
+SearchPattern ;
+. xml . XMLConfiguration ;
+File selectedFile = fileSelectionPage . getSelectedFile ( ) ;
+= new Task ( name , getStart ( visited ) , getLength ( visited ) ) ;
+core . RubyRefactoring ;
+( ) throws FileNotFoundException , IOException , BadLocationException
+junit . framework . TestSuite ;
+( status ) ;
+Set < Path > paths = new HashSet < Path > ( ) ;
+arguments )
+getConnectedTo ( Object entity )
+volatile byte [ ] contents ;
+monitor , <NUM_LIT:100> ) ;
+eclipse . core . resources . IWorkspace ;
+CategorizedProblem > problems = getProblems ( src ) ;
+String > ret = new ArrayList < String > ( ) ;
+FORMATTER_COMMENT_FORMAT_HEADER , DefaultCodeFormatterConstants . FORMATTER_COMMENT_LINE_LENGTH , DefaultCodeFormatterConstants . FORMATTER_COMMENT_CLEAR_BLANK_LINES }
+classBody = classBody ;
+dictionary ) ;
+( ISVDBIndexIterator index_it )
+== IDialogConstants . OK_ID )
+public abstract Node getRenamedPartNode ( String newName ) ;
+. class ) In < MockHoge > in , @ Export ( name = "<STR_LIT>" , description = MockFooExporterDescription . class ) Out < MockHoge > out )
+null )
+compiler . flow . testing . external . Ex1MockImporterDescription ;
+. the ;
+. fKey , orgin . getString ( key . fKey ) ) ;
+core . HadoopScriptHandler ;
+yob )
+region ;
+rdt . refactoring . tests . FileTestData ;
+private void scheduleGemAutoInstall ( )
+context , String name , boolean stop_on_first_match )
+( ) ) ;
+import com . asakusafw . testdriver . core . DataModelDefinition ;
+) ) ;
+) == secondNode . getPosition ( ) . getStartOffset ( ) ;
+requestContainerUpdate ( jproject , container , newEntries ) ;
+return ( it . getType ( ) . isElemOf ( fTypes ) && it . getName ( ) . equals ( name ) ) ;
+. contains ( hover ) ) fInstantiatedTextHovers . add ( hover ) ;
+( ) ) ;
+. jbpm . PluginImpl ;
+. ClassLiteral ;
+, path ) ;
+dialog = new CompareResultDialog ( fView . getShell ( ) , fView . getFailedTest ( ) ) ;
+void setStatus ( PostmarkStatus status )
+calendar ) . toLocalVariableDeclaration ( context . resolve ( java . sql . Timestamp . class ) , value ) ) ;
+explorerModel . setOddjob ( newJob ) ;
+Object subject )
+'<STR_LIT>' )
+. parse ( "<STR_LIT>" ) ) }
+playerAdmin ;
+cur ) ;
+static Test suite ( )
+Constants . EXIT_CODE_ERROR ;
+private CallHierarchyMessages ( )
+char [ capacity ] ;
+result . append ( "<STR_LIT>" ) ;
+FOLDING_COLLAPSE ) ;
+. class ) ;
+, e ) ) ;
+new WaitDesign ( element , parentContext ) ;
+getAbsolutePath ( ) ) ;
+protected abstract K createKeyObject ( ) ;
+'<CHAR_LIT:/>' : case '<CHAR_LIT:=>' : case '<CHAR_LIT>' : case '<CHAR_LIT>' : case '<CHAR_LIT:[>' : case '<CHAR_LIT:]>' : back ( ) ;
+@ Generated ( "<STR_LIT>" ) @ SuppressWarnings ( "<STR_LIT:deprecation>" ) public final class JobflowInstanceLockModelOutput implements ModelOutput < JobflowInstanceLock >
+> getNormalModelType ( )
+) ;
+d ) ) ;
+) , x . value ) ;
+. core . IRubyScript ;
+public SVDBPackageDecl ( )
+class DRegxReWriteVisitor extends ReWriteVisitor
+input . length ( ) )
+< ExecutionScript > > phase : getScripts ( ) . entrySet ( ) )
+if ( monitor == null ) return true ;
+key )
+. create ( ) ;
+new FlagState ( JobState . COMPLETE ) ;
+private int [ ] createPropertyVector ( List < String > columnNames )
+public Class < ? > getModelType ( )
+) + "<STR_LIT>" ;
++ "<STR_LIT>" + "<STR_LIT>" ;
+@ Override public void write ( T model )
+public interface JavadocScanner
+RUNTIME ) @ Documented public @ interface SideDataJoin
+class TimeDisplayTest extends TestCase
+= Lists . create ( ) ;
+handleFirstPartition ( ITypedRegion partition , List < Edit > edits , Edit . EditFactory factory , int offset ) throws BadLocationException
+. RetentionPolicy ;
+primitive_name . equals ( "<STR_LIT>" ) ) )
+void write ( int b ) throws IOException
+) > endOffset )
++ "<STR_LIT:\">" ;
+throw new RuntimeException ( "<STR_LIT>" + getClass ( ) ) ;
+= Integer . parseInt ( ( String ) options . get ( AptanaRDTPlugin . COMPILER_PB_MAX_LINES ) ) ;
+< ? > profile ) throws InterruptedException , IOException
+fNext = next ;
+) )
+) ;
+public IRubyElement getRubyElement ( )
+final String representation ;
+this . steps = steps ;
+vocabulary . flow . FlowDescription ;
+prime * result + ( ( name == null ) ? <NUM_LIT:0> : name . hashCode ( ) ) ;
+oddjob . monitor . model . JobFormAction ;
+String vmTwoId = vmTwoName ;
+, description = RootOutputExporterDesc . class ) Out < Ex1 > output )
+ObjectDriver ;
+"<STR_LIT>" , description = Ex1MockExporterDescription . class ) Out < Ex1 > out1 , @ Export ( name = "<STR_LIT>" , description = Ex1MockExporterDescription . class ) Out < Ex1 > out2 )
+@ Override public int hashCode ( )
+import org . rubypeople . rdt . refactoring . tests . FileTestSuite ;
+WrappedInputStream extends InputStream implements Seekable , PositionedReadable
+public CardLayout getLayout ( )
+run ( )
+if ( path == null )
+expression ;
+public class Ex1MockImporterDescription extends TemporaryInputDescription
+new AtomicInteger ( ) ;
+"<STR_LIT>" , owner , name , type ) ;
+cmd . getItem ( <NUM_LIT:0> ) ) ;
+= producerBarrier ;
+public abstract void setTo ( FlowCompilerOptions options , boolean value ) ;
+<NUM_LIT:0> ;
+. setInterpreterArguments ( executionArgumentsPersistableFormat . substring ( <NUM_LIT:0> , argBreakIndex ) ) ;
+> ( ) ;
+throws IOException
+private In < T > in ;
+this . symbol = symbol ;
+. IMPORT ) . size ( ) , is ( <NUM_LIT:0> ) ) ;
+OddjobLookup ( oddjob1 ) . lookup ( "<STR_LIT>" ) ) ;
+String ( context . getContents ( ) ) ;
+TaskQueryBuilder taskQuery ( ) ;
+. asakusafw . vocabulary . flow . FlowDescription ;
+, ISpellChecker checker , Locale locale , ISpellingProblemCollector collector , IProgressMonitor monitor )
+message )
+. createStatement ( ) ;
+dir = new FileAttribute ( "<STR_LIT>" , this ) ;
+, DateHelper . parseDateTime ( "<STR_LIT>" ) ) ;
+IPath getFullPath ( )
+public void widgetDefaultSelected ( SelectionEvent e )
+final LogArchiverCache logArchiver ;
+. get ( index + <NUM_LIT:1> ) ) ;
+empty ( ) throws Exception
+, s2 ) ;
+null || owner instanceof Class < ? > )
+epAddr ) ;
+CacheStorage storage = new CacheStorage ( remote . getConf ( ) , uri ( "<STR_LIT>" ) ) ;
+( StageNotifier source , String description )
+v1 . XmlPullParser ;
+e )
++ LF ) ;
+( )
+util . storeToDatabase ( false ) ;
+"<STR_LIT>" ;
+return super . visitWhenNode ( iVisited ) ;
+. ExecutionContext ;
+org . rubypeople . rdt . refactoring . core . mergewithexternalclassparts . MergeWithExternalClassPartsRefactoring ;
+rejectValue ( "<STR_LIT>" , "<STR_LIT>" , "<STR_LIT>" ) ;
+if ( lastLineIndent == null ) lastLineIndent = getIndent ( line ) ;
+asakusafw . dmdl . spi . ModelAttributeDriver ;
+) ;
+api . TaskTest ;
+gd . widthHint = <NUM_LIT:30> ;
+( String name )
+"<STR_LIT>" , "<STR_LIT>" ) ) ;
+dependentsLength + <NUM_LIT:1> ] , <NUM_LIT:0> , dependentsLength ) ;
+private int fRelevance ;
+new RowLayout ( SWT . VERTICAL ) ) ;
+> getTypeAnnotations ( EmitContext context , ModelDeclaration model )
+) ;
+. refactoring . core . RubyRefactoring ;
+. utils . java . model . util . AttributeBuilder ;
+) ) ;
+import org . oddjob . Resetable ;
+condition ;
++ "<STR_LIT:n>" + "<STR_LIT>" ;
+private boolean firstStart = true ;
+public R serviceNotFound ( )
+visitModuleNode ( visited ) ;
+ct . setUsername ( "<STR_LIT>" ) ;
+"<STR_LIT>" , Reason ) ;
+( )
+ITypeGuess > guesses , String type1 , String type2 )
+internal . ui . text . IRubyPartitions ;
+( DataModelDefinition < T > definition , VerifyContext context , Sheet sheet , ExcelRuleExtractor extractor ) throws ExcelRuleExtractor . FormatException
+context ) ;
+wildcard )
+T > modelType )
+. setHelp ( this , IRubyHelpContextIds . HISTORY_ACTION ) ;
+import com . asakusafw . windgate . core . resource . ResourceMirror ;
+public static final int main = <NUM_LIT> ;
+catch ( IOException e )
+= new File ( uvm , "<STR_LIT>" ) ;
+) ;
+public class ContactsResponse
+= parser ;
+desc = new MockDupCheckDbExporterDescription ( ) ;
+. testing . model . Ex1 ;
+) ;
+if ( ! qualifier . equals ( other . qualifier ) )
+. toLowerCase ( ) ;
+notifier )
+. emit ( ) ;
+oddjob . setConfiguration ( new XMLConfiguration ( "<STR_LIT>" , xml ) ) ;
+size ( ) ;
+"<STR_LIT>" , SVDBItemType . Covergroup ) ;
+org . rubypeople . rdt . astviewer . Activator ;
+Node ;
+null || st . getFrames ( ) . length == <NUM_LIT:0> )
+public void addIndexIterator ( ISVDBIndexIterator it )
+interface IQuickFixProcessor
+if ( selectionIndex >= fContainers . length )
+final URL url )
+trackInsertChild ( i , other ) ;
+. ArooaElement ;
+. identifier = i . intValue ( ) ;
+mark ( ) ;
+public Object getChild ( )
++ file . getAbsolutePath ( ) ) ;
+( ( IMember ) this . parent ) . getDeclaringType ( ) ;
+new IllegalArgumentException ( ) ;
+. FieldCallItem ;
+vocabulary . flow . graph . FlowElementAttributeProvider ;
+public void setW2 ( int w2 )
+while ( ( read = reader . read ( part ) ) != - <NUM_LIT:1> ) buffer . append ( part , <NUM_LIT:0> , read ) ;
+enterScript ( )
+fConstraintList ;
+) ) ;
+. resultsFrom ( DateHelper . parseDateTime ( "<STR_LIT>" ) ) ;
+( ) ;
+cls )
+"<STR_LIT>" + args [ i ] ) ;
+BindingProvider ) port ) . getRequestContext ( ) . put ( BindingProvider . USERNAME_PROPERTY , uid ) ;
+( String code , Object ... arguments )
+join ( ) ;
+. jadt . sink . Sink ;
+JavadocTokenKind . EOF || kinds . contains ( kind ) == breakOnFound )
+SourceDriver < Text > driver = resource . createSource ( process ) ;
+protected ISourceRange getSourceRange ( )
+import org . oddjob . logging . LogArchiver ;
+return "<STR_LIT>" ;
+@ Retention ( RetentionPolicy . RUNTIME ) @ Documented public @ interface Summarize
+return "<STR_LIT>" ;
+println ( "<STR_LIT>" ) ;
+getLogger ( JavaCodeResourceLoader . class ) ;
+( option ) ;
+. java . model . syntax . ModelFactory ;
+throw new IllegalArgumentException ( ) ;
+<NUM_LIT:1> ) ) ;
+length < <NUM_LIT:1> ) return ;
+IColorProvider ) labelProvider ) . getForeground ( element ) ;
+context , IProgressMonitor monitor )
+long fileLen = fs . getFileStatus ( path ) . getLen ( ) ;
+selectionProvider ) ;
+RubyElement , int limitTo , IRubySearchScope scope , String scopeDescription )
+false ;
+assertEquals ( ExistsDesign . class , design . getClass ( ) ) ;
+rootNode . accept ( this ) ;
+dateOption ) ;
+super ( AptanaRDTPlugin . getDefault ( ) . getOptions ( ) , contents ) ;
+) ;
+waitOn )
+( new HashMap < String , String > ( ) ) ;
+( IMember enclosingElement )
+. FileTestSuite ;
+> collectors ;
+. setTo ( "<STR_LIT>" ) ;
+SPELLING_LOCALE = "<STR_LIT>" ;
+String name , Class < ? > type , String description )
+line = reader . readLine ( ) ;
+<NUM_LIT:2> ;
+( VisualNodeVisitor < R , C , E > visitor , C context ) throws E
+selectedNode = SelectionNodeProvider . getSelectedNodeOfType ( doc . getActiveFileRootNode ( ) , pos , CallNode . class , FCallNode . class , VCallNode . class ) ;
+private boolean includeUndocumentedPkgsInPkgIndex = true ;
+= new FileTestData ( getName ( ) , "<STR_LIT>" , "<STR_LIT>" ) ;
+> out3 ;
+ISVDBItemBase ;
+Override public void write ( Simple model ) throws IOException
+( exception . getClazz ( ) ) . error ( message , exception . getCause ( ) ) ;
+private static final Log log = LogFactory . getLog ( FilterFromNodeAction . class ) ;
+setProperties ( props ) ;
+) ;
+if ( "<STR_LIT>" . equals ( s ) ) return TokenUNLESS ;
+equals ( otherMultiply . expr2 ) )
+draw2d . IFigure ;
+rootDesignFactory ( )
+. rubypeople . rdt . refactoring . documentprovider . IDocumentProvider ;
+. EDITOR_END_STATEMENTS ) }
+= problem ;
+protected Calendar fromCalendar ( Date referenceDate , TimeZone timeZone )
+other )
+. oddjob . arooa . parsing . ArooaContext ;
+) . connect ( "<STR_LIT:id>" , "<STR_LIT>" ) ;
+schedules . TimeSchedule ;
+NoPublicConstructors ( @ Import ( name = "<STR_LIT>" , description = MockHogeImporterDescription . class ) In < MockHoge > in , @ Export ( name = "<STR_LIT>" , description = MockHogeExporterDescription . class ) Out < MockHoge > out )
+= new ArrayList ( ) ;
+( ) , "<STR_LIT>" , "<STR_LIT>" ) ;
+. getDocumentProvider ( ) ;
+) ;
+) ;
+) ;
+ArooaDescriptor descriptor = df . createDescriptor ( getClass ( ) . getClassLoader ( ) ) ;
+null )
+import org . rubypeople . rdt . launching . IVMInstall ;
+classMapLinks . put ( name , server . baseURI ( ) + "<STR_LIT>" + name ) ;
+for ( String aktSelection : strSelections )
+? > ctor = inputClass . getConstructor ( RecordParser . class ) ;
+class ) ) , is ( type ( "<STR_LIT>" ) ) ) ;
+) . getKksGroup ( ) )
+public void testLimitEagerRefinement ( ) throws ParseException
+import java . lang . annotation . RetentionPolicy ;
+assertThat ( info . getModelClassName ( ) , is ( ImportTarget1 . class . getName ( ) ) ) ;
+getTable ( ) . setRedraw ( false ) ;
+static final long serialVersionUID = <NUM_LIT> ;
+. advance ( ) . value = "<STR_LIT>" ;
+== null )
+( ) )
+script = mock . getDriverScript ( ) ;
+true ) ;
+Type outputType ;
+. second ( ) ) ;
+Target ( ElementType . METHOD ) @ Retention ( RetentionPolicy . RUNTIME ) @ Documented public @ interface Convert
+import com . asakusafw . runtime . io . ModelOutput ;
+= t ( In . class ) ;
+Import , Extends }
+( nspStack [ i ] ) )
+public class CommonsLoggingLoggerFactory implements LoggerFactory
+truncate0 ( element , description , context ) ;
+int len ) throws IOException
+( ) ) . includeDeleted ( command . isIncludeDeleted ( ) ) . includeHidden ( command . isIncludeHidden ( ) ) . getPage ( ) ;
+( editor ) ;
+asList ( fProcessor . computeContextInformation ( context . getViewer ( ) , context . getInvocationOffset ( ) ) ) ;
+= "<STR_LIT>" ) private StringOption filePath = new StringOption ( ) ;
+super ( parent ) ;
+import java . lang . annotation . RetentionPolicy ;
+( )
+AutoReloadableDataset dataset )
+runtime . getStartTime ( ) ) ;
+String fLabel ;
+nodeType = CLASS_VAR_NODE ;
+. name = name ;
+( field , index ) ;
+) return Collections . EMPTY_SET ;
+return ;
+static final String LINK_SUBANT_COLOR = GRAPH_PREFIX + "<STR_LIT>" ;
+) ;
++ "<STR_LIT>" ) ;
+< ? extends DocMethodParameter > getFormalParameters ( )
+jobflowSid . hashCode ( ) ;
+eclipse . ui . PlatformUI ;
+setLoadable ( false ) ;
+org . eclipse . jface . text . rules . ITokenScanner ;
+IRubyElement getElementAtOffset ( IRubyElement input , ITextSelection selection ) throws RubyModelException
+( <NUM_LIT> ) ;
+ExcludeOperation ( page , provider ) ;
+provider . open ( SIMPLE , uri , new TestContext . Empty ( ) ) ;
+ss )
+fExpr = expr ;
+( startPointList . get ( i ) , endPointList . get ( i ) ) ;
+SummarizeFlowImpl extends SummarizeFlow
+createElementInfo ( )
+( SVDBDirTreeNode node )
+super ( bundle , prefix , editor ) ;
+MethodCallNodeWrapper > calls = new ArrayList < MethodCallNodeWrapper > ( ) ;
+boolean stop ;
+modify_id ;
+. editprovider . SimpleNodeEditProvider ;
+) ) ) ;
+text . IColorManager ;
+. thenStatement ;
+public String getOriginalName ( )
+savedInstanceState ) ;
+. class . getName ( ) + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" ;
+public void stop ( BundleContext context ) throws Exception
+import com . sun . tools . hat . internal . model . JavaThing ;
+) ;
+final LogArchiver logArchiver ;
+return conf ;
+config ) ;
+. fill ( model . getSidOption ( ) ) ;
+import com . asakusafw . vocabulary . flow . Import ;
+eclipse . core . runtime . IProgressMonitor ;
+faunaGenus ;
+mAuthActivity = activity ;
+void createControl ( Composite parent )
+> cachedRootNodes ;
+public void init ( IWorkbench workbench )
+@ Override public boolean isIgnoredTable ( String schema , String table )
+) ) ;
+instance . execute ( PhaseMonitor . NULL , CONTEXT , jobs , JobScheduler . STRICT ) ;
+net . sf . sveditor . core . db . SVDBItemType ;
+suite ( )
+"<STR_LIT>" ) , is ( false ) ) ;
+@ Override public int hashCode ( )
+arooa . design . view . ViewMainHelper ;
+OK_ID )
+public class InlineLocalRefactoring extends RubyRefactoring
+this . config = config ;
+@ Override public void truncate ( T description , TestContext context ) throws IOException
+apply ( Root root )
+IPersistableElement ;
+. next ( ) . toString ( ) ;
+] workingCopies = this . hierarchy . workingCopies ;
+cause : util . getCauses ( ) )
+static String MatchFilter_WriteFilter_name ;
+. mkdirs ( ) ) ;
+( ) ) ;
+. hashCode ( ) ) ;
+private In < Ex1 > in1 ;
+item . getIndex ( ) % <NUM_LIT:2> == <NUM_LIT:1> ) ? "<STR_LIT>" : "<STR_LIT>" ;
+HashMap < String , Object > paramMap )
+import com . asakusafw . windgate . core . WindGateLogger ;
+= launchedProject . getFullPath ( ) . toPortableString ( ) + fFilename ;
+) ;
+) , offset ) ;
+event . detail )
+. flow . testing . model . Part2 ;
+( int i = <NUM_LIT:0> ;
+( ) ) ;
+out . println ( "<STR_LIT>" ) ;
+"<STR_LIT>" ) ;
+. BatchDescription ;
+null ;
+. setEnabled ( fIsSelected ) ;
+( color )
+@ Override public String getFieldName ( )
++ getClass ( ) ) ;
+classNode : classNodes )
+parser . fill ( model . getValueOption ( ) ) ;
+database ( ) , firstBaseRelation . aliases ( ) , firstBaseRelation . condition ( ) , softCondition , firstBaseRelation . joinConditions ( ) , projections , allUnique , longestOrderSpecs , firstBaseRelation . limit ( ) , firstBaseRelation . limitInverse ( ) ) ;
+. createImage ( ) ;
+) ) ) ;
+) ;
+IllegalArgumentException ( "<STR_LIT>" ) ;
+@ Override public void setRating ( double rating )
+. asakusafw . windgate . hadoopfs . temporary . ModelInputProvider ;
+( ContentAssistInvocationContext context , IProgressMonitor monitor )
+expr1 , Expression expr2 )
+> out = tester . output ( "<STR_LIT>" , Simple . class ) . verify ( prefix + "<STR_LIT>" , new IdentityVerifier ( ) ) ;
+( config != null )
+. springframework . batch . core . StepContribution ;
+public abstract class AttributeDriver
+static String OpenTypeHierarchyAction_messages_title ;
+rightCondition ) ) ;
+"<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT:n>" + "<STR_LIT>" + "<STR_LIT>" ;
+( ) ;
+= target . updateThreadsInternal ( changed ) ;
+( id ) ) . booleanValue ( ) ;
+setSelection ( <NUM_LIT:0> , fProfile . getName ( ) . length ( ) ) ;
+. getDeductionCodeOption ( ) ) ;
+public static AstType toType ( PropertyType type )
+. getBoolean ( PreferenceConstants . SEARCH_USE_REDUCED_MENU ) )
+assert node . getName ( ) . equals ( "<STR_LIT>" ) ;
+public void testKillerThread ( ) throws FailedToStopException , InterruptedException
+( ) ;
+++ i )
+public static class Listener
+< String > types ( )
+StdInInputHandler . LineReader test = new StdInInputHandler . LineReader ( new ByteArrayInputStream ( s . getBytes ( ) ) ) ;
+( )
+btAdapter = BluetoothAdapter . getDefaultAdapter ( ) ;
+( String message , Throwable cause )
+( ) ;
+return K_DELEGATE_CLASS ;
+IllegalArgumentException ( ) ;
+. api . query . ApiQueryBuilder ;
+log = super . newInstance ( name ) ;
+( ) ;
+human_last_name ;
+public void assertLinkCount ( int expectedLinkCount )
+element , offset , length ) ;
+) throws IOException
+sveditor . core . db . SVDBItemType ;
+( inputHandler == null )
+false ;
+public static final String BEGIN = "<STR_LIT>" ;
+run ( JobFlow3 . class ) . after ( jf2 ) ;
+if ( TetherService . singleton != null ) TetherService . singleton . restartSecuredWifi ( ) ;
+( <NUM_LIT:2> ) . getText ( ) ) ;
+( badBeanHandler == null )
+, Arrays . toString ( WorkbookFormat . values ( ) ) ) ) ;
+getEntry ( "<STR_LIT:/>" ) , path . toString ( ) ) ;
+= regExpText . getSelectionCount ( ) ;
+( ) ;
+assertNotNull ( moduleNode . getWrappedNode ( ) ) ;
+public void testFind2 ( )
+potentialSubtypes . size ( ) ;
+new FileInputStream ( file ) ;
+) ;
+return value ;
+, Helper . getJobState ( wrapper ) ) ;
+"<STR_LIT>" ;
+. vocabulary . flow . Import ;
+state = s_normal ;
+parameterizedSelector ( )
+storedCount = new IntervalCounts ( ) ;
+return getIncidentDAO ( ) . findIncident ( ) ;
+is ( - <NUM_LIT:1> ) ) ;
+layout . addActionSet ( IPageLayout . ID_NAVIGATE_ACTION_SET ) ;
+clipboard ) ;
+public class AllTests
+RubyCore . create ( file ) ;
+) newEntry . getAttribute ( CPListElement . INCLUSION ) ;
+if ( traitClass == null )
+T >
+. arg1 == TwitterService . RESPONSE_OK )
+context )
+jobflowSid ) ;
+( )
+if ( unit == null )
+createContents ( composite ) ;
+annotation . RequestMapping ;
+null ) selectionProvider . removeSelectionChangedListener ( fRemoveAction ) ;
+. JobFlow ;
+PreferenceConstants . getPreferenceStore ( ) . addPropertyChangeListener ( fPropertyChangeListener ) ;
+location ;
+( ) ;
+Runnable ) proxy ;
+. oddjob . arooa . registry . ChangeHow ;
+public String fClockingId ;
+helpers . put ( bean , helper ) ;
+public OQLException ( String msg , Throwable cause )
+File > ( )
+InstallRubyWizardPage && ( ( InstallRubyWizardPage ) page ) . downloadSelected ( ) )
+void codeComplete ( int offset , CompletionRequestor requestor ) throws RubyModelException ;
+PropertyTypeKind getKind ( )
+import java . lang . annotation . Target ;
+if ( ! isSVIdentifierStart ( id . charAt ( <NUM_LIT:0> ) ) )
+void clear ( Path path )
+class_name ) ;
+SuppressWarnings ( "<STR_LIT:unchecked>" ) private final BatchHandler < StubEntry > batchHandler = context . mock ( BatchHandler . class ) ;
+public boolean isReady ( ) ;
+) . getImage ( ISharedImages . IMG_TOOL_DELETE ) ;
+return m ;
+] ) ;
+. STARTED ) ;
+XMLReaderFactory ;
+db ) ;
+import org . mockito . Mock ;
+@ Test public void copy ( )
+results ;
+import com . asakusafw . vocabulary . external . FileExporterDescription ;
+) . startsWith ( "<STR_LIT:.>" ) )
+( environment , declaration ) ;
+view . ViewMainHelper ;
+@ Override public RecordWriter < Object , Object > getRecordWriter ( TaskAttemptContext job ) throws IOException , InterruptedException
+peekKeyword ( "<STR_LIT>" , "<STR_LIT:class>" , "<STR_LIT>" , "<STR_LIT>" , "<STR_LIT>" , "<STR_LIT>" , "<STR_LIT>" ) )
+) ;
+= <NUM_LIT:1> , max = <NUM_LIT> ) @ Pattern ( regexp = "<STR_LIT>" , message = "<STR_LIT>" ) public String getName ( )
+testCreate ( ) throws ArooaParseException
+for ( Constructor constructor : dataType . constructors )
+asakusafw . utils . java . model . syntax . Visitor ;
+modelgen . dmdl . csv . AbstractCategorySummaryCsvExporterDescription ;
+junit . runner . RunWith ;
+provider . retrieveRequestToken ( consumer , CALLBACK_URL ) ;
+!= '<CHAR_LIT>' )
+id ;
+( ) ;
+toString ( ast ) + "<STR_LIT>" + toString ( javaElement ) ) ;
+rubypeople . rdt . internal . core . util . Util ;
+sink ) ;
+( StateListener listener )
+if ( selection instanceof IStructuredSelection && ! selection . isEmpty ( ) )
+) ;
+new OddjobConfigException ( "<STR_LIT>" + startDate + "<STR_LIT:]>" ) ;
+== null )
+"<STR_LIT>" , declaring . getName ( ) , name , parameterTypes ) ;
+public abstract int getElementType ( ) ;
+false ;
+oddjob . arooa . design . screem . StandardForm ;
+DateHelper . parseDate ( "<STR_LIT>" ) ) ) ;
+os . Bundle ;
+public boolean equals ( Object other )
+String createIncludeDir ( )
+IRubySearchConstants ;
+boolean sameSchema ( String schema1 , String schema2 )
+. class ) @ JsonDeserialize ( using = TaskStatusDeserializer . class ) public enum TaskStatus
+( Object ) entity ) ) ;
+| DND . DROP_LINK ;
+== offset )
+) ) ;
+checkConditionCheckResult ( messages , testData , "<STR_LIT>" ) ;
+Override public void shortProperty ( PropertyName name , Cell context ) throws IOException
+null ;
+e ) ;
+< Source > getPropertiesAsSources ( )
+( id , name , category , description , new PluginInStreamProvider ( bundle ) ) ;
+dialog . open ( ) != Window . OK )
+( TOPIC_CLASS , "<STR_LIT>" , "<STR_LIT>" ) ;
+. getOffset ( ) == <NUM_LIT:0> && range . getLength ( ) == <NUM_LIT:0> ) return cunit ;
+return new VariablesArooaClass ( new VariablesJob ( ) ) ;
+public interface MyInterface
+( element , IRubyElementDelta . F_REORDER ) ;
+if ( elseBody == null )
+ISVDBIndexCache createIndexCache ( String project_name , String base_location )
+) ;
+String xml = "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" ;
+. comments ) ) ) ;
+CallHierarchyMessages . ToggleCallModeAction_callers_tooltip ) ;
+. core . runtime . CoreException ;
+( root . toPath ( '<CHAR_LIT:/>' ) , is ( "<STR_LIT>" ) ) ;
+workingSets != null )
+checkMustNotBeNull ( prologueStages , "<STR_LIT>" ) ;
+replacementOffset , replacementLength , cursorPosition , null , null , null , null ) ;
+. raw )
+sortedStrings [ left ] , midToString ) ) left ++ ;
+InsertEditProvider ;
+public void widgetSelected ( SelectionEvent e )
+java . model . syntax . StatementExpressionList ;
+. utils . java . model . util . Emitter ;
+@ FindBy ( id = "<STR_LIT>" ) private WebElement searchButton ;
+fSearchPreferences = null ;
+logging . LogFactory ;
+getSourceScript ( ) . getResourceName ( ) , script . getDrainScript ( ) . getResourceName ( ) , attempt , processProfile . getRetryCount ( ) ) ;
+= new StatusInfo ( ) ;
+( String ... steps )
+addSubGroup ( InfoGroup ig )
+runtime . io . ModelOutput ;
+op = f . withParameter ( in , <NUM_LIT:3> ) ;
+) ;
+. Composite ;
+) ;
+< Ex1 > in1 ;
+"<STR_LIT>" , "<STR_LIT>" }
+IRuntimeLoadpathEntry [ ] resolveRuntimeLoadpathEntry ( IRuntimeLoadpathEntry entry , IRubyProject project ) throws CoreException
+toSVIdentifier ( file_path . getName ( ) ) ;
+currentSchedule ( retrySchedule ) ;
+public void testSuperClassWithOneMethod ( )
+. syntax . Visitor ;
+StringWriter ( ) ;
+( name , prop . getAsInt ( ) ) ;
+"<STR_LIT>" + "<STR_LIT>" + "<STR_LIT:<>" + datasetURI + "<STR_LIT>" + predicate + "<STR_LIT>" + value + "<STR_LIT>" ;
+= e . widget ;
+void allPropertiesChanged ( Object fillerParameter ) ;
+for ( String aktSelection : strSelections )
+, <NUM_LIT:5> ) ) ;
+( )
+( in , <NUM_LIT:10> ) ;
+return fFoldingStructureProviderRegistry ;
+) > <NUM_LIT:0> && value != null && value . length ( ) > <NUM_LIT:0> ) properties . put ( predicate , value ) ;
+new AlertException ( ) ;
+String message )
+Date retryDate ) ;
+: case '<CHAR_LIT:(>' : case '<CHAR_LIT:)>' : case '<CHAR_LIT:;
+. preference . PreferenceManager ;
+, true ) ;
+runtime . CoreException ;
+@ Override public boolean isVariableArity ( )
+public static Object createTypeFromConfiguration ( ArooaConfiguration config ) throws ArooaParseException
+core . generateconstructor . GenerateConstructorRefactoring ;
+enableDebug ( false ) ;
+@ Override protected void reduce ( PatchApplyKey key , Iterable < ThunderGateCacheSupport > values , Context context ) throws IOException , InterruptedException
+public ModelKind getModelKind ( )
+T > getTargetType ( ) ;
+ancestor , IRubyElement descendent )
+( cls_path ) ;
+Class cls , Enum value ) throws DBWriteException
+LogHandle ;
+( ) ;
+final Set < Integer > subHashes = new HashSet < Integer > ( ) ;
+wizard . WizardDialog ;
+framework . Test ;
+) )
+@ Override public void handle ( StaplerRequest request , StaplerResponse response ) throws ServletException , IOException
+!= null && getClass ( ) == other . getClass ( ) )
+assertEquals ( <NUM_LIT:1> , children . length ) ;
+public String tableName ( )
+( MockProjectionOutput . class ) public interface MockProjection
+new Intent ( this , NWPrefsActivity . class ) . addFlags ( Intent . FLAG_ACTIVITY_REORDER_TO_FRONT ) ) ;
+catch ( PatternSyntaxException e )
+FlowDescription ;
+( ) )
+class VMChanges implements IVMInstallChangedListener
+this . notifyResult ( false ) ;
+emptyList ( ) , JADT . TEST_SRC_INFO , factory ) ;
+= name ;
+TestUnitPreferencesConstants . createDefaultStackFiltersList ( ) ;
+p ) ;
+( Util . loadService ( SourceProvider . class , serviceClassLoader ) ) ;
+"<STR_LIT>" ) ;
+graph . OperatorDescription ;
+= out1 ;
+public EndVoteForm ( TaskInstance taskInstance )
+public void testExampleCration ( )
+public String getGroup ( )
+( ) ) ) ) ;
+Override public void _case ( Bar x )
+. println ( blog . toString ( ) ) ;
+. rubypeople . rdt . refactoring . core . encapsulatefield . FieldEncapsulator ;
+protected abstract void _default ( CommentStyle2 x ) ;
+) ) ;
+obj )
+related = m_model . createProperty ( "<STR_LIT>" ) ;
+@ Override public void write ( ExportTempImportTarget11 model ) throws IOException
+sveditor . core . db . SVDBItemType ;
+InstVarFieldItem extends FieldItem
+private int getDepth ( ITypeHierarchy hierarchy , IType input )
+public class ColorExamplesTest
+public EdsDeviceInfo ( byte szPortName [ ] , byte szDeviceDescription [ ] , NativeLong deviceSubType , NativeLong reserved )
+super ( cause ) ;
+String property ;
+. out )
+) == IRubyElement . METHOD )
+i <= top ;
+Collections . addAll ( arguments , "<STR_LIT>" , "<STR_LIT>" ) ;
+annotation . RetentionPolicy ;
++ "<STR_LIT>" ;
+( "<STR_LIT>" + files [ i ] + "<STR_LIT>" , e ) ;
+new TestSuite ( "<STR_LIT>" ) ;
+import org . rubypeople . rdt . debug . core . model . IRubyVariable ;
+) ) ;
+SimpleTextAttribute independent ;
+void testCreateOnePart ( )
+List < String > columnNames )
+( c . getType ( ) )
+GridData . FILL_HORIZONTAL | GridData . VERTICAL_ALIGN_BEGINNING ) ;
+ms . length ] ;
+) ;
+ho = ( JavaHeapObject ) value ;
+, new DateOption ( new Date ( <NUM_LIT> , <NUM_LIT:1> , <NUM_LIT:2> ) ) ) ;
+src . insert ( call . getWrappedNode ( ) . getPosition ( ) . getStartOffset ( ) , object + '<CHAR_LIT:.>' ) ;
+AFTER_EACH_TEST_METHOD ) public class EmployeeJobTest
+R visitRecordDefinition ( C context , AstRecordDefinition node ) ;
+setSelection ( prefs . getBoolean ( PREF_METHOD_PARAMETER_NAMES ) ) ;
+wiwiss . d2rq . ClassMapLister ;
+getTemplates ( ) )
+. equals ( "<STR_LIT:foo>" ) )
+Override public < T > Verifier createVerifier ( DataModelDefinition < T > definition , VerifyContext context )
+. COMPLETE , JobState . INCOMPLETE ) ) ;
+import junit . framework . TestSuite ;
+. framework . Test ;
+, column ) && ! exclude . matchesColumn ( schema , table , column ) ;
+support ;
+import java . lang . annotation . Retention ;
+outputReportIncident . setCode ( "<STR_LIT:0>" ) ;
+getState ( ) ) ;
+d2rq . algebra . ProjectionSpec ;
+<NUM_LIT:1L> ;
+int len = <NUM_LIT:0> ;
+= IllegalStateException . class ) public void nameConflict ( )
+< Node > it )
+suite ( )
+class Messages extends NLS
+boolean isIgnored ( String fullyQualifiedName )
+customLicense . setEnabled ( false ) ;
+if ( isValidResult ( operatorMaster , selectorMaster , selectorResult ) == false )
+true ;
+Map < String , MySqlDataType > dataTypeMap = new HashMap < String , MySqlDataType > ( ) ;
+SVDBFileTree boundary , SVDBFileTree context , String key )
+( )
+public String getName ( )
+Override public boolean isException ( )
+return ExSummarized . class ;
+annotation . RetentionPolicy ;
+extends OpenCloseWorkingSetAction
+sdb . store . LayoutType ;
+<NUM_LIT:1> ) ;
+. rubypeople . rdt . internal . core . search . processing . JobManager ;
+this , IRubyHelpContextIds . CALL_HIERARCHY_HISTORY_ACTION ) ;
+sveditor . core . db . index . SVDBSourceCollectionIndexFactory ;
+java . model . util . AttributeBuilder ;
+. setValue ( <NUM_LIT:10> ) ;
+api . query . impl . ApiQueryBuilderImpl ;
+WindGateCoreLogger ( Class < ? > target )
+@ Test public void orNotNull ( )
+public void keysToArray ( Object [ ] array )
+vraptor . interceptor . Interceptor ;
+. get ( ) ;
+. Test ;
+final IToken mlc = new Token ( new TextAttribute ( SVEditorColors . getColor ( SVEditorColors . MULTI_LINE_COMMENT ) , null , SVEditorColors . getStyle ( SVEditorColors . MULTI_LINE_COMMENT ) ) ) ;
+JavaCCParserImpl impl = new JavaCCParserImpl ( srcInfo , reader ) ;
+. model . Part2 ;
+public void destroy ( ObjectName childName ) throws JMException ;
+) ;
+) ;
+. persistence . EntityManager ;
+String endpointPathUrl ;
+Interval limited = new IntervalHelper ( parentInterval ) . limit ( now ) ;
+CoGroupFlowOp1 extends FlowDescription
+org . springframework . batch . core . JobParameters ;
+fDebugEn )
+R , C , E extends Throwable > R accept ( Visitor < R , C , E > visitor , C context ) throws E
+io . RecordEmitter ;
+protected void remove ( Path path , String id )
+. offset = offset ;
+[ <NUM_LIT:0> ] ;
+setText ( label ) ;
+public void removeReconcilingParticipant ( IReconcilingParticipant participant )
+asakusafw . yaess . core . HadoopScript ;
+public static String LicenseConfigurationBlock_invalid_license_label ;
+this . config = ( SplitLocalConfig ) configObj ;
+. Set ;
+visitForStatement ( ForStatement elem , C context ) throws E
+. getOutputs ( ) )
+int CAT_NLS = <NUM_LIT> ;
+public void logEvent ( LogEvent logEvent )
+if ( term == '<CHAR_LIT:->' && prev == '<CHAR_LIT:->' && ! relaxed ) throw new XmlPullParserException ( "<STR_LIT>" ) ;
+apache . commons . logging . Log ;
+> extraHeaders )
+= "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" ;
+( ) , hasItemInArray ( mapping ( "<STR_LIT>" , "<STR_LIT:key>" ) ) ) ;
+class AllTests
+[ ] getData ( )
+if ( passings . contains ( target ) || startings . contains ( target ) )
+( ) throws ParseException
+) ;
+( )
+. compiler . flow . LinePartProcessor ;
+int l00 = <NUM_LIT:0> ;
+Button . ClickEvent ;
+public Node getValueNode ( )
+< ? > , FlowElementPortDescription > > extractConstants ( Class < ? > enumType , Collection < FlowElementPortDescription > ports )
+= run ( JobFlow2 . class ) . after ( jf1 ) ;
+ts_c ) ;
+, Throwable aCause )
+Schedule childSchedule ;
+DateHelper . parseDate ( "<STR_LIT>" ) , result . getTime ( ) ) ;
+( )
+logging . Log ;
+. Out ;
+ExtractConstantAction_extract_constant ;
+<NUM_LIT:1> ;
+util . NLS ;
+] wrappingInterfacesFor ( T wrapped )
+time . setFrom ( "<STR_LIT>" ) ;
+process ( value ) ;
+i = i + <NUM_LIT:2> )
+return parent . getPosition ( ) . getEndOffset ( ) - parent . getPosition ( ) . getStartOffset ( ) ;
+) + "<STR_LIT:U+0020>" + getSurname ( ) ;
+. execute ( MessageFormat . format ( "<STR_LIT>" , cacheId ) ) ;
+) , context ) ;
+. arooa . design . DesignInstance ;
+( object , left , right ) ;
+public void statement ( EmitDirection direction )
+import org . oddjob . util . ThreadManager ;
+void simple ( @ Key ( group = "<STR_LIT:string>" ) Ex1 context , Ex1 right )
+) . equals ( localVarUsage . getNewName ( ) ) )
+import org . rubypeople . rdt . core . IRubyScript ;
+"<STR_LIT>" ;
+hoge . getFrom ( ) , is ( source ( a , "<STR_LIT>" ) ) ) ;
+AllTypesWNoerr model ) throws IOException
+, CONSTRUCTOR ) ) , SYNTHETIC ( Collections . < DeclarationKind > emptySet ( ) , of ( CLASS , INTERFACE , ENUM , ANNOTATION , FIELD , CONSTRUCTOR , METHOD , ANNOTATION_ELEMENT , ENUM_CONSTANT ) ) , ;
+model . getKeyOption ( ) ) ;
+getNamespace ( String prefix ) ;
+) )
+"<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" ) ;
+( currentClass . getName ( ) ) ;
+Trait < OriginalNameTrait >
+( ) , in2 . flow ( ) , found . flow ( ) , missing . flow ( ) ) ) , is ( true ) ) ;
+> ( provider . getCreatedIds ( ) ) ;
+map ) ;
+( new ServerId ( "<STR_LIT>" ) ) ;
+exec ( cx , newScope ) ;
+. createElement ( "<STR_LIT>" ) ;
+( Runnable task )
+output = new ByteArrayOutputStream ( ) ;
+import java . io . InputStream ;
+( selectedCombo . getSelectionIndex ( ) ) ;
+new D2RQException ( "<STR_LIT>" + "<STR_LIT>" + database . columnType ( column ) + "<STR_LIT>" + "<STR_LIT>" , D2RQException . DATATYPE_DOES_NOT_SUPPORT_DISTINCT ) ;
+getPath ( ) , true ) ;
+( <NUM_LIT:0> ) . getFragments ( ) . get ( <NUM_LIT:0> ) ;
+IWorkingSet workingSet = ( IWorkingSet ) obj ;
+Map < Class < ? > , BasicTypeKind > map = new HashMap < Class < ? > , BasicTypeKind > ( ) ;
+context . setError ( ) ;
+new SequenceFileModelOutput < V > ( out ) ;
+) ;
+@ Import ( name = "<STR_LIT:x>" , description = Ex1MockImporterDescription . class ) In < Ex1 > in , @ Export ( name = "<STR_LIT:x>" , description = Ex1MockExporterDescription . class ) Out < Ex1 > out )
+public String toString ( )
+( )
+final class SimpleInput implements ModelInput < Simple >
+= <NUM_LIT:0> ;
+, String tableName , List < String > columnNames , List < String > checkColumnNames , String errorCodeColumnName , String errorCodeValue )
+, <NUM_LIT:0> ) )
+public final class MockErrorModelOutput implements ModelOutput < MockErrorModel >
+bind . annotation . InitBinder ;
+String key = name ;
+proj != null )
+visit ( MethodWrapper methodWrapper )
+( ActionMessages . SelectAllAction_tooltip ) ;
+COMPILER_PB_METHOD_MISSING_NO_RESPOND_TO , getSeverityString ( MethodMissingWithoutRespondTo ) ) ;
+<NUM_LIT:0> ;
+HistogramElement > map = new HashMap < JavaClass , HistogramElement > ( ) ;
+@ Override public Class < ? > getModelType ( )
+return Collections . emptyList ( ) ;
+( String name )
+Override @ SuppressWarnings ( "<STR_LIT:unchecked>" ) protected void setup ( Context context ) throws IOException , InterruptedException
+@ Recorded @ PublishedMethod ( methodSummary = "<STR_LIT>" , params = "<STR_LIT>" ) public List < String > predictWithModel ( String service , String model , IMolecule molecule ) throws Exception ;
+) throws RubyModelException ;
+rows ;
+if ( fGroups == null ) return ;
+if ( obj instanceof SVDBScopeItem )
+. getOptions ( ) ;
+sveditor . core . db . expr . SVDBExpr ;
+TestSuite ( TestMethodologyTemplates . class ) ) ;
+final int LocalAndMethodNamingConvention = <NUM_LIT> ;
+( SVDBItemType . PropertyWeakStrongExpr ) ;
+System . getProperty ( "<STR_LIT>" ) ) . getCanonicalPath ( ) ;
+parser . javadoc . ir . JavadocToken ;
+. GsonBuilder ;
+Documented ;
+throw new RuntimeException ( "<STR_LIT>" + getClass ( ) ) ;
+( ( first instanceof Class < ? > ) == false )
+throws CoreException ;
+public FieldGroupDummy ( BorderedGroup fieldGroup )
+type , String id )
+. Key ;
+. oddjob . arooa . reflect . ArooaPropertyException ;
+getRole ( )
+. Test ;
+Button browseButton ;
+findParts ( ) ;
+. asakusafw . vocabulary . external . FileExporterDescription ;
+setToolTipText ( TestUnitMessages . ScrollLockAction_action_tooltip ) ;
+public class SVDBConfigDefaultClauseStmt extends SVDBConfigRuleStmtBase
+. Registry ;
+, dir . getAbsolutePath ( ) ) ) ;
+StringBuffer ( ) ;
+. setCookieName ( "<STR_LIT>" ) ;
+WildcardSpec wild = new WildcardSpec ( file ) ;
+public EncapsulateFieldRefactoring ( IRefactoringContext selectionProvider )
+assert in != null ;
+role ) ;
+. StandardPropertyLookup ;
+LoggerFactory ;
+( )
+, '<CHAR_LIT>' , '<CHAR_LIT:U+002C>' , '<CHAR_LIT>' , '<CHAR_LIT:>>' , '<CHAR_LIT>' }
+TestContext EMPTY = new TestContext . Empty ( ) ;
+isStoppable ( )
+) ;
+"<STR_LIT>" ) ;
+) ) ;
+StringBuilder ( ) ;
+find ( resource ( "<STR_LIT>" ) , null , m . createTypedLiteral ( "<STR_LIT>" , XSDDatatype . XSDgYear ) ) ;
+public void setSVDBFile ( SVDBFile file )
+context , String errorId ) ;
+property )
+String sessionId , ParameterList arguments ) throws IOException ;
+[ <NUM_LIT:1> ] ;
+( ) ;
+( ) || state . isException ( ) )
+throw new UnsupportedOperationException ( ) ;
+( obj instanceof IRubyElement )
+createException ( e , Messages . format ( CorextMessages . History_error_read , fFileName ) ) ;
+resourceMethod = resourceMethod ;
+( )
+public static String TempToFieldConditionChecker_CannotConvertMethodParameters ;
+assertEquals ( ParentState . COMPLETE , test . evaluate ( JobState . COMPLETE , JobState . COMPLETE ) ) ;
+rubypeople . rdt . internal . ui . util . CoreUtility ;
+switch ( element . getEntryKind ( ) )
+jadt . sink . Sink ;
+( message ) ;
+return script . getId ( ) ;
+"<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT>" ;
+active_scope == null )
+Thread . sleep ( <NUM_LIT> ) ;
+true ;
+super . setUp ( ) ;
+com . asakusafw . runtime . value . ValueOption ;
+. KEY_CLASS ) ;
+rubypeople . rdt . core . compiler . IProblem ;
+OutputStream existing , Logger logger , Level level )
+DesignParser parser = new DesignParser ( new StandardArooaSession ( descriptor ) ) ;
+> ( ) ;
+false ) ;
+. vocabulary . flow . JobFlow ;
+result . elementSize = this . elementSize ;
+public void testFileRemoved ( )
+Calendar ;
+. vocabulary . flow . FlowDescription ;
+flavour )
+private final String symbol ;
+if ( elements . length > <NUM_LIT:1> )
+Log . log ( CLASS , MessageIdConst . LCLN_CLEN_FAIL , "<STR_LIT>" , files [ i ] . getAbsolutePath ( ) ) ;
+memberNameOf ( )
+Override public void run ( )
+return result ;
+public class ExportFileDelete
+@ SuppressWarnings ( "<STR_LIT:unchecked>" ) private < T extends Writable > T restoreWritable ( T value )
+> getConnected ( )
+viewers . ICheckStateListener ;
+( int offset , String text ) throws BadLocationException
+, format . parse ( "<STR_LIT>" ) ) ) ;
+DEFAULT_KILLER_TIMEOUT ;
+e , this . getClass ( ) , copySql . toString ( ) , new String [ <NUM_LIT:0> ] ) ;
+item5 . getCategoryCodeAsString ( ) , is ( "<STR_LIT:A>" ) ) ;
+setText ( InfoViewMessages . GotoInputAction_label ) ;
+throws CoreException
+getArooaDescriptor ( ) . getClassResolver ( ) ) ;
+this . prepared = false ;
+. IEditorPart ;
+, url . openStream ( ) ) ;
+( node . getArgsNode ( ) ) ;
+resourceName = "<STR_LIT>" + eventLevel . name . toLowerCase ( ) + "<STR_LIT>" ;
+Quoter doubleQuoteEscaper = new PatternDoublingQuoter ( Pattern . compile ( "<STR_LIT>" ) , "<STR_LIT:\">" ) ;
+com . asakusafw . vocabulary . flow . JobFlow ;
+@ Test public void Input_NotTyped ( )
+( false ) ;
+) ;
+e )
+private IWorkbenchWindow fWindow ;
+< T > required ) throws ArooaPropertyException , ArooaConversionException
+= iVisited . getName ( ) ;
+@ Override void prepare ( ) throws IOException ;
+String SplitTempConditionChecker_NoLocal ;
+IDocumentProvider ;
+SVDBMarker > ( ) ;
+. oddjob . arooa . design . screem . BorderedGroup ;
+WaitingJob ( ) ;
+public long getSid2 ( )
+) . getStartOffset ( ) , new INodeAcceptor ( )
+jface . viewers . ILabelProvider ;
+void testEnumVarTFScope ( ) throws SVParseException
+class ReferenceTypeGuess implements ITypeGuess
+private final SimpleTextAttribute haltOnFailure ;
+, _JavaBlockComment ( list ( list ( START , ONEWS , END ) ) ) ) ;
+sales ( <NUM_LIT:20> ) ) ;
+fFileName . getText ( ) ) ;
+new CoreOperatorFactory ( ) ;
+= toolkit . invoke ( SYNCHRONIZE ) ;
+this . locations = locations ;
+if ( fValidationState == null )
+this . independent = independent ;
+IRubyElement parent , String name )
+) ;
+<NUM_LIT:1> ) ;
+iconHelper . changeIcon ( StateIcons . iconFor ( state ) ) ;
+) @ SupportedSourceVersion ( SourceVersion . RELEASE_6 ) public class MockProcessor extends AbstractProcessor
+actual . getCCharOption ( ) , columnInfo ) ;
+public String getTag ( )
+IrDocMember ( )
+SVDBItemType getType ( )
+. FALSE , DefaultCodeFormatterConstants . TRUE }
+if ( canonicalLength >= externalLength )
+. app . IApplicationContext ;
+Composite parent = getFieldEditorParent ( ) ;
+( ) . getExporterDescription ( ) ;
+TestInput < Ex1 > in1 = tester . input ( Ex1 . class , "<STR_LIT>" ) ;
+toCharArray ( ) , matchRule ) ;
+capitalize ( words . get ( i ) ) ) ;
+new ArrayList < Expr > ( this . filterExpr ) ;
+= resourcePattern ;
+) ;
+. model . Ex2 ;
+getSymbol ( )
+. isFinished ( ) && ! monitor . isCanceled ( ) )
+. resource . ResourceMirror ;
+Class < Stoppable > interfaceClass ( )
+import com . asakusafw . vocabulary . flow . Out ;
+this . emitter = emitter ;
+, twoIntegers . size ( ) == <NUM_LIT:2> ) ;
+put ( DocTopicManager . TOPIC_FUNCTION , TASK_PUB_OBJ ) ;
+objectName = new ObjectName ( "<STR_LIT>" ) ;
+. oddjob . state . ParentState ;
+UnusedPrivateField = Internal + FieldRelated + <NUM_LIT> ;
+if ( obj == null )
+@ Override protected void onCreate ( Bundle savedInstanceState )
+( )
+( ) ) )
+, final int totalWork )
+byte [ ] b , int off , int len ) throws IOException
+runtime . io . ModelInput ;
+ValueFactory ;
+< Long > blockingQueue ;
+throw new IllegalStateException ( ) ;
+return true ;
+public abstract String getTableName ( ) ;
+super ( target , "<STR_LIT>" ) ;
+void stop ( ) throws FailedToStopException
+void createPartControl ( Composite parent )
+fileProvider . addListener ( this ) ;
+other ) ;
+@ Override public List < Runnable > shutdownNow ( )
+throw new IOException ( MessageFormat . format ( "<STR_LIT>" , environment . getErrorMessage ( ) ) ) ;
+Test ;
+setToolTipText ( ActionMessages . ToggleLinkingAction_tooltip ) ;
+. appendText ( name ) ;
+= context . createImplementation ( ) ;
+String getTransactionId ( )
+( ) ) ;
+protected void createFieldEditors ( )
+( bundle_path ) . getName ( ) ;
+FlowDescription ;
+, <NUM_LIT> , true ) ;
+static String FocusOnSelectionAction_focusOnSelection_description ;
+( )
+IntBinaryTree . MatchBlock < Integer > ( )
+return - <NUM_LIT:1> ;
+( null , new HashMap < Object , Object > ( ) ) ;
+getTime ( ) ) ;
+( leaf ) ;
+( ) . getClass ( ) ) ;
+import com . hp . hpl . jena . shared . impl . PrefixMappingImpl ;
+else if ( eventType == XmlPullParser . END_DOCUMENT )
+import org . eclipse . jface . viewers . ILightweightLabelDecorator ;
+R accept ( IrDocElementVisitor < R , P > visitor , P context ) ;
+getSecondLevelCacheMissCount ( ) ) ) ;
+void setTags ( List < Tag > tags )
+BORDER ) ;
+, String endpointBaseUrl )
+"<STR_LIT:Hello>" , "<STR_LIT>" ) ;
+public static String RubyEditorColoringConfigurationBlock_link ;
+InlineMethodRefactoring ;
+, MoveMethodConfig config )
+return ( flags & AccPrivate ) != <NUM_LIT:0> ;
+isMoveable ( ) )
+public Long longValue ;
+isTrue ( ) ;
+composite = ( Composite ) super . createDialogArea ( parent ) ;
+for ( int i = c . length ;
+this . emitter = emitter ;
+FileNotFoundException , IOException
+source = new DatabaseSource ( configuration . getJdbcDriver ( ) , configuration . getJdbcUrl ( ) , configuration . getJdbcUser ( ) , configuration . getJdbcPassword ( ) , configuration . getDatabaseName ( ) ) ;
+private boolean fIncludePublicClassTasksFunctions ;
+super ( new Configuration ( false ) , new TaskAttemptID ( ) , null , null , new MockStatusReporter ( ) ) ;
+IRubyProject project = RubyCore . create ( resource . getProject ( ) ) ;
+( this . nestedCoreException == null )
+Override public EnumConstantDeclaration newEnumConstantDeclaration ( Javadoc javadoc , SimpleName name , Expression ... arguments )
+new AtomicInteger ( ) ;
+) ;
+new RuntimeException ( "<STR_LIT>" ) ;
+if ( paths . length == <NUM_LIT:1> )
+getFromDate ( ) ;
+= <NUM_LIT> ;
+if ( args == null )
+) ;
+import com . asakusafw . dmdl . semantics . ModelSymbol ;
+IProgressMonitor pm ) throws CoreException
+addCellDelimiter ( ) ;
+duplicateFlgName . hashCode ( ) ;
+( other . type ) ) return false ;
+public boolean shouldSkipField ( FieldAttributes f )
+d2rq . engine . QueryEngineD2RQ ;
+. lookup ( "<STR_LIT>" ) ;
++ fileName ) ;
+lang . annotation . Target ;
+. read ( ) ;
+public static final String ACTUAL_START = "<STR_LIT>" ;
+if ( index > MAX_COLUMN_INDEX )
+ProjectionViewer viewer ) ;
+( contents . get ( "<STR_LIT>" ) , is ( "<STR_LIT>" ) ) ;
+class MockIn < T > implements In < T >
+"<STR_LIT>" , NO_FORMAL_TYPE_ARGUMENTS , NO_EXTENDS , NO_IMPLEMENTS , list ( _Constructor ( NO_COMMENTS , "<STR_LIT>" , Util . < Arg > list ( ) ) ) ) ) , parserImpl ( "<STR_LIT>" ) . dataTypes ( ) ) ;
+clocking_event ( ) ;
+this . selectionProvider = selectionProvider ;
+new LogEvent ( "<STR_LIT:foo>" , <NUM_LIT:2> , LogLevel . DEBUG , "<STR_LIT:Hello>" ) ) ;
+compiler . testing . TemporaryOutputDescription ;
+Override public NamedType getQualifier ( )
+add ( arr [ j ] ) ;
+file = folder . newFile ( "<STR_LIT:file>" ) ;
+internal . ui . text . RubyWordFinder ;
+return new RubySelectAnnotationRulerAction ( RubyEditorMessages . getBundleForConstructedKeys ( ) , "<STR_LIT>" , editor , rulerInfo ) ;
+protected IFile editFile ( String path , String content ) throws CoreException
+. sf . sveditor . core . db . expr . SVDBExpr ;
+< String > ( ) ;
+log . info ( "<STR_LIT>" + url + "<STR_LIT:>>" ) ;
+java . io . File ;
+public DebuggerNotFoundException ( String message )
+while ( tok . hasMoreTokens ( ) ) disabled . add ( tok . nextToken ( ) ) ;
+checkLoader = checkLoader . getParent ( ) )
+org . oddjob . beanbus . BadBeanException ;
+flow . testing . operator . ExOperatorFactory . Update ;
+) ;
+public interface ConsumerBarrier < T extends AbstractEntry >
+retrieveEvents ( long from , int max ) ;
+getDeclaring ( )
+. IPath ;
+( mixinNameNode instanceof StrNode )
+iterations = <NUM_LIT> ;
++ "<STR_LIT>" + "<STR_LIT>" + "<STR_LIT:n>" + "<STR_LIT>" ;
+PrintStream ORIGINAL_STDERR = System . err ;
+String > simples = new LinkedList < String > ( ) ;
+private final Describer [ ] describers ;
+RunningJob ( ) ;
+if ( launchMode . equals ( ILaunchManager . RUN_MODE ) ) setText ( TestUnitMessages . RerunAction_label_run ) ;
+<NUM_LIT> ) ;
+selectionProvider . getCaretPosition ( ) , new TargetClassFinderUI ( ) ) ;
+public static Test suite ( )
+( )
+driver . getClass ( ) . getName ( ) ) ;
+< IndexLine > lines = new ArrayList < IndexLine > ( ) ;
+import com . asakusafw . utils . java . model . syntax . Name ;
+return fMember ;
+getReconcilerLock ( ) ;
+CompiledType combinerTypeOrNull ;
+( @ Import ( name = "<STR_LIT>" , description = Ex1MockImporterDescription . class ) In < Ex1 > input , @ Export ( name = "<STR_LIT>" , description = MissingPathExporterDesc . class ) Out < Ex1 > output )
+timestampString = loadProperty ( properties , KEY_TIMESTAMP ) ;
+= Lists . create ( ) ;
+throws SVParseException
+public LoadResultReader ( AbstractReadStrategy readStrategy )
+noDefaultAndApplyButton ( ) ;
+beanList = new ArrayList < ExportTempTableBean > ( ) ;
+( ) || state . isComplete ( ) || state . isIncomplete ( ) || state . isException ( ) ;
+, "<STR_LIT>" ) ;
+fIterator = null ;
+. core . runtime . preferences . DefaultScope ;
+IFileTypeInfo ) obj ;
+MultiVariableGuess guess , MultiVariable variable )
+) . create ( content ) ;
+( "<STR_LIT>" , SalesDetail . class ) . prepare ( dataSet + "<STR_LIT>" ) ;
+( ) ;
+. io . RecordEmitter ;
+( )
+new File ( filename ) ;
+getAnnotation ( DataModelKind . class ) ;
+catch ( RuntimeException e )
+return false ;
+. query . ApiQueryBuilder ;
+. IPath ;
+] envp = getEnvironment ( config ) ;
+String PATH_CACHE_FINALIZER = "<STR_LIT>" ;
+operator . ExOperatorFactory . Random ;
+( excelUtils , sheet , DATA . STRING_BIG_VALUE , TYPES . TINYINT , new CellTypeMismatchException ( "<STR_LIT>" ) ) ;
+import net . sf . sveditor . core . db . ISVDBNamedItem ;
+( ) ] ) ;
+. config = config ;
+return property ;
+public long getValue ( )
+InputStream ) bean . get ( "<STR_LIT>" ) ;
+@ Override public String toString ( )
+return fEnclosingPkg ;
+( null , aliasName ) ) ;
+( ) ;
+( instanceInfo == null )
+TC_FieldNodeWrapper . class ) ;
+( new Integer ( <NUM_LIT:1> ) , i3 ) ;
+asakusafw . runtime . io . RecordEmitter ;
+IRubyElement ;
+boolean fizz = false ;
+setError ( "<STR_LIT>" ) ;
+> ( ) ;
+( new DoubleOption ( ) ) ;
+. toString = new QTag ( element , parentContext ) . toString ( ) ;
+Activator . context = bundleContext ;
+private In < Ex1 > in1 ;
+. text = text ;
+partialClass . getClassName ( ) ) ;
+return fKey ;
+import com . asakusafw . vocabulary . batch . BatchDescription ;
+. append ( '<CHAR_LIT>' ) ;
+( projection ) ) ;
+return null ;
+page ;
+toString ( ) ;
+return ;
+( context , this ) ;
+logger = Logger . getLogger ( logName ) ;
+( IllegalArgumentException e )
+int i = <NUM_LIT:0> ;
+import javax . management . ReflectionException ;
+public String getName ( )
+this . table = table ;
+Branch ;
+"<STR_LIT:file>" ) == false )
+) ;
+if ( it . getType ( ) != SVDBItemType . File )
+_EmptyTree ( ) , _Node ( <NUM_LIT> , _EmptyTree ( ) , _EmptyTree ( ) ) ) ) , usage . createExample ( ) ) ;
+) ;
+public void testTranslationTableRDFValueCanBeLiteral ( )
+void testExceptionScheduleOnce ( ) throws ParseException
+visit ( MapModel model )
+desc . getProperties ( ) ;
+_Pkg ( NO_COMMENTS , "<STR_LIT>" ) ;
+handler , final JobState state )
+BooleanOption ( ) ;
+. setProperty ( key , value ) ;
+ret = - <NUM_LIT:1> ;
+. get ( ) , is ( greaterThan ( <NUM_LIT> ) ) ) ;
+value = value ;
+TS_RenameLocal extends FileTestSuite
+( ) ;
+getName ( ) . identifier ) ;
+( sample . reset ) ;
+IrDocFragment > fragments = parser . fetchRestFragments ( scanner ) ;
+= "<STR_LIT>" ;
+ui . BrowserView ;
+private ITypeSelectionComponent fComponent ;
+getAdapter ( IRubyElement . class ) ;
+) ;
+. text . ruby . IInvocationContext ;
+void init ( IWizard wizard , Map < String , Object > options ) ;
+( explorerModel , model ) ;
+getDefaultLibraryLocations ( getInstallLocation ( ) ) ;
+, AstNode . Visitor < C , R > visitor )
+public void createControl ( Composite parent )
+setConf ( new Configuration ( ) ) ;
+jobAction . addPropertyChangeListener ( new PropertyChangeListener ( )
+waitFor ( ) ;
+p . setProperty ( "<STR_LIT>" , "<STR_LIT>" ) ;
+( TreePath path , Object newValue )
+. class ) ;
+if ( index >= size )
+super ( ) ;
+import fi . koku . services . utility . authorizationinfo . v1 . model . User ;
+this . key = key ;
+public String getFarm ( ) ;
+) ;
+( intent ) ;
+pd , true ) ;
+assertThat ( adapter . get ( String . class ) , instanceOf ( ValueDefinition . class ) ) ;
+@ Test public void testCreateDrain ( ) throws Exception
+( ) ;
+case CLASS_VAR : case INSTANCE_VAR : case METHOD : lastLocalContext = ( Member ) current ;
+assertEquals ( <NUM_LIT:0> , ReflectionUtils . getMethodsByNameAndParamCount ( ClassToExamine . class , "<STR_LIT>" , <NUM_LIT:3> ) . size ( ) ) ;
+( root . getPath ( ) . segmentCount ( ) ) ;
+OpenTypeInHierarchyAction ( )
+extends JavaValue
+null )
+getFileNameWithoutPath ( String actFileName )
+element , ArooaContext parentContext )
+. getPatchContents ( "<STR_LIT:0>" ) ) ;
+public CollectingSearchRequestor ( )
+public class StopActionTest extends TestCase
++ "<STR_LIT>" + "<STR_LIT>" ;
+= new StopWatch ( joinPoint . toShortString ( ) ) ;
+getCurrentTokenStartPosition ( )
+testResult ;
+project ) throws CoreException
+) ;
+getMatchMode ( ) )
+( window . getShell ( ) ) ;
+class , service . getClass ( ) ) ;
+expression , IValue value )
+KeyConflict >
+specialProvider != null ? specialProvider : site . getSelectionProvider ( ) ;
+) ) ;
+public static String RubyNode_importDeclarations ;
+) ;
+getOffsetLength ( )
+emitter ;
+this ( editor . getEditorSite ( ) ) ;
+( new CoGroupOperatorProcessor ( ) ) ;
+"<STR_LIT:>>" ) ;
+false ) ;
+script ) throws IOException , InterruptedException
+, index = ( ( int ) ( key > > > <NUM_LIT:32> ) ) % length ;
+size ) ;
+assert name != null ;
+) ;
+( )
+lang . Models ;
+public static Test suite ( )
+) ;
+final RecordEmitter emitter ;
+SVDBItemType type )
+( ) ;
+return new ModelLoader ( loaded ) ;
+( ) ;
+engine . LocaleSensitiveSpellDictionary ;
+( this . equalsAndSameParent ( delta . getElement ( ) , element ) )
+inlinedClassProvider , Collection < AssignableNode > concerningAssignments )
+) ) ;
+. lang . annotation . Retention ;
+daemon = new Thread ( new Runnable ( )
+new SplittedVariableRenamer ( config . getLocalVariablesFinder ( ) . getScopeNode ( ) ) . rename ( config . getLocalUsages ( ) ) ;
+String path )
+( LaunchingMessages . JavaLocalApplicationLaunchConfigurationDelegate_Creating_source_locator____2 ) ;
+= attributes ;
+. OutputStreamProvider ;
+@ Override public ServerId getServerId ( )
+void invalid_support_inconsistent ( )
+return test ;
+( PreferenceConstants . EDITOR_MARK_CONSTANT_OCCURRENCES . equals ( property ) )
+) ;
+final ILoadpathInformationProvider fCPInformationProvider ;
+IWizard wizard = new OpenFileWizard ( window ) ;
+) ;
+result = <NUM_LIT:1> ;
+s = new TestSuite ( "<STR_LIT>" ) ;
+. inlinemethod . conditions ;
+. getPath ( ) . append ( "<STR_LIT>" ) . toPortableString ( ) , src ) ;
+session ;
+import com . asakusafw . runtime . io . RecordParser ;
+split ( "<STR_LIT:n>" ) ;
+SplitTempRefactoring . class , SplitTempRefactoring . NAME ) ;
+name = name ;
+= Util . freeze ( arguments ) ;
+getOffset ( ) ) ;
+) throws Exception
+i ++ )
+RunnableWrapper runnable = new RunnableWrapper ( wrapped , proxy ) ;
+return new MonthlyScheduleDesign ( element , parentContext ) ;
+job . getId ( ) , Thread . currentThread ( ) . getName ( ) ) ;
+. runtime . io . ModelInput ;
+( ) throws IOException ;
+com . pogofish . jadt . util . Util ;
+, timestamp , delete , deleteValue ) ) ;
+layout ) ;
+if ( instance == null )
+is ( <NUM_LIT> ) ) ;
+catch ( IOException e )
+HelloWorldWriter . class ) ;
+result ) ;
+. CodingStyleConfigurationBlock_error_reading_xml_message ) ;
+) ;
+properties . load ( new FileInputStream ( FilenameUtils . concat ( installerDir , "<STR_LIT>" ) ) ) ;
+. fGroup = group ;
+. yaess . core . CommandScriptHandler ;
+. printStackTrace ( ) ;
+MockVerifyRuleProvider add ( URI uri , VerifyRule rule )
+( String replacementString , Position replacementPosition , int cursorPosition )
+target , ServerSideToolkit toolkit )
+IProgressMonitor monitor ) throws CoreException ;
+. BorderedGroup ;
+ISourceFolderRoot [ ] roots = ( ( IRubyProject ) element ) . getSourceFolderRoots ( ) ;
+( )
+length ( ) ) ;
+String name2 = null ;
+fEditor ) ;
+. asakusafw . runtime . io . util . Union ;
+expr1 , Expression expr2 )
+currentThread ( ) ) ;
+IStructuredSelection sel = ( IStructuredSelection ) event . getSelection ( ) ;
+StatusInfo ( ) ;
+component . getClass ( ) ;
+class JdbcLogger extends WindGateLogger
+setPTextAsString ( "<STR_LIT>" ) ;
+( ) ;
+fJobListeners . add ( l ) ;
+loader = start ( ) ;
+Override public String getPath ( )
+( ) ;
+) ;
+IResource underlyingResource )
+Test public void emitFactory ( )
+IRubyElement ) element ;
+( request . getHeader ( "<STR_LIT>" ) , request . getHeader ( "<STR_LIT>" ) ) ;
+Queue }
+( ) ;
+. value )
+name != null ) return false ;
+( )
+) )
+buf , int offset ) throws IOException ;
+out . println ( test . lastStateEvent ( ) . getState ( ) ) ;
+asakusafw . vocabulary . model . Key ;
+@ JsonProperty private TotalItemsWrapper replies ;
+( IContentFormatterExtension ) formatter ;
+, true ) ) ;
+o2 = factory . newSimpleName ( "<STR_LIT>" ) ;
+. KEY_ID ) ;
